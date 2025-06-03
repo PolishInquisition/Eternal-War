@@ -9,7 +9,7 @@
 		"requiredTech": "Navigation"
 	},
 	{
-		"name": "Coast Battery",
+		"name": "Coastal battery",
 		"cost": 300,
 		"cityStrength": 14,
 		"cityHealth": 35,
