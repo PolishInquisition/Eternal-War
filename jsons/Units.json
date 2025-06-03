@@ -1,17 +1,31 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Dreadnought",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Nordhelm",
+		"replaces": "Battleship",
+		"movement": 4,
+		"strength": 75,
+		"rangedStrength": 75,
+		"range": 4,
+		"cost": 490,
+		"requiredTech": "Electronics",
+		"requiredResource": "Oil",
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns"
+	},
+	{
+		"name": "Ski Infantry",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Nordhelm",
+		"movement": 3,
+		"strength": 41,
+		"cost": 255,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"promotions": ["[Norwegian Ski Infantry] ability"],
+		"attackSound": "shot"
 	}
 ]
