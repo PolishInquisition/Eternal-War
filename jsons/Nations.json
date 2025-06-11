@@ -12,7 +12,7 @@
 		"declaringWar": "Your Nation stay on my way to Victory.",
 		"attacked": "I only want to go fishing.",
 		"defeated": "It's not over yet",
-		"introduction": "Nordhelm is federation of 6 city-nation leaded by Halberg city and dynasty",
+		"introduction": "Nordhelm welcome you and see you an potenital treade partner",
 		
 		"neutralHello": "Godmorgen, we come in peace",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -34,7 +34,45 @@
 			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
 
 		"cities": ["Halberg","Jørgenstad","Solrød","Yørstad","Ragnberg","Vesterkyst","","Skjoldsborg","Fjordhaven",
-			"Hyldebjerg","Blåvand","Løveholm","Skovdal","Sandgård"]
+			"Hyldebjerg","Blåvand","Løveholm","Skovdal","Sandgård"],
+		"syNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
+	},
+	{
+		"name": "Teuticus Order",
+		"leaderName": "Grossmeister Meinstein",
+		"adjective": ["Teuton"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Gutentag",
+		"startIntroPart2": "Our order wanna visit you",
+		
+		"declaringWar": "Heil Grossmeister Heil Teuticus",
+		"attacked": "Nah i'd win",
+		"defeated": "Order never die",
+		"introduction": "Welcome, we are the True ORDER that bring peace and prosperity to the world",
+		
+		"neutralHello": "Gutentag my neighbour",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["Yes but actually no"],
+		"neutralYes": ["No but actually yes"],
+
+		"hateHello": "Next time you will be in my empire",
+		"hateLetsHearIt": ["Talk but fast, i don't wanna hear you"],
+		"hateNo": ["Pissoff"],
+		"hateYes": ["Nice gift my subject"],
+		
+		"afterPeace": "HEIL TEUTICUS HEIL GROSSMEISTER",
+		"tradeRequest": "What do you want, we have something",
+
+		"outerColor": [255,201,14],
+		"innerColor": [127,127,127],
+		"uniqueName": "Knight's Glory",
+		"uniques": ["[+30]% Strength <for [Melee] units>","Double quantity of [Oil] produced",
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
+
+		"cities": ["Halberg","Jørgenstad","Solrød","Yørstad","Ragnberg","Vesterkyst","","Skjoldsborg","Fjordhaven",
+			"Hyldebjerg","Blåvand","Løveholm","Skovdal","Sandgård"],
 		"syNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
 	},
 	{
@@ -65,12 +103,12 @@
 		"afterPeace": "Peace is a break between wars",
 		"tradeRequest": "What did you want, we have everything",
 
-		"outerColor": [255,157,0],
-		"innerColor": [195,239,255],
+		"outerColor": [255,210,0],
+		"innerColor": [180,250,255],
 		"uniqueName": "Stallburg Mushroom Virus",
 		"uniques": ["[+1 Happiness] from every [City center]","[-5]% Strength <when defending> <for [Military] units>"],
 
-		"cities": ["Stalburg","Obenseuer","Ardscratch","Baltasfell","Cellecter","Ersfors","Forde","Illo","Koksburg","Ploughwedge","Sydhavn","Stemlake","Tarfell","Tilstrand","Erzfell","Fisch",]
-		"syNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
+		"cities": ["Stalburg","Obenseuer","Ardscratch","Baltasfell","Cellecter","Ersfors","Forde","Illo","Koksburg","Ploughwedge","Sydhavn","Stemlake","Tarfell","Tilstrand","Erzfell","Fisch"],
+		"syNames": ["Mark"]
 	}
 ]

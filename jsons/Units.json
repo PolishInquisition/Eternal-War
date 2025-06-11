@@ -35,7 +35,6 @@
 		"unitType": "Civilian",
 		"uniques": [
 			"Invisible to non-adjacent units",
-			"May Paradrop up to [15] tiles from inside friendly territory",
 			"[-10]% Strength bonus for [Military] units within [1] tiles",
 			"All adjacent units heal [35] HP when healing",
             "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
