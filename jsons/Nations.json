@@ -103,7 +103,7 @@
 		"afterPeace": "Peace is a break between wars",
 		"tradeRequest": "What did you want, we have everything",
 
-		"outerColor": [255,210,0],
+		"outerColor": [220,190,0],
 		"innerColor": [180,250,255],
 		"uniqueName": "Stallburg Mushroom Virus",
 		"uniques": ["[+1 Happiness] from every [City center]","[-5]% Strength <when defending> <for [Military] units>"],
