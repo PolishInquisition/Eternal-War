@@ -1,15 +1,19 @@
 [
 	{
 		"name": "Cold Dock",
+		"replaces": "Seaport",
+		"uniqueTo": "Nordhelm",
 		"hurryCostModifier": 25,
 		"maintenance": 3,
-		"requiredBuilding": "Harbor",
 		"uniques": ["[+1 Production, +2 Gold] from [Tundra] tiles [in this city]",
 			"Must be next to [Coast]", "[+25]% Production when constructing [Water] units [in this city]"],
+		"requiredBuilding": "Harbor",
 		"requiredTech": "Navigation"
 	},
 	{
 		"name": "Coastal battery",
+		"replaces": "Arsenal",
+		"uniqueTo": "Nordhelm",
 		"cost": 300,
 		"cityStrength": 14,
 		"cityHealth": 35,
@@ -17,5 +21,39 @@
 		"requiredBuilding": "Castle",
 		"requiredTech": "Metallurgy",
 		"uniques": ["Destroyed when the city is captured","Must be next to [Coast]"]
+	},
+	{
+		"name": "Stallburg Steel",
+		"replaces": "Ironworks",
+		"uniqueTo": "Republic of Stolland",
+		"cost": 125,
+		"maintenance": 3,
+		"production": 8,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Cost increases by [30] per owned city","[+10]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Machinery"
+	},
+		{
+		"name": "Bergman Tunnels",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Republic of Stolland",
+		"maintenance": 1,
+		"production": 3,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Engineering"
+	},
+		{
+		"name": "Stolland Nuclear Weapons",
+		"replaces": "Manhattan Project",
+		"uniqueTo": "Republic of Stolland",
+		"happiness": -5,
+		"science": 3,
+		"percentStatBonus": {"science": 25},
+		"cost": 1000,
+		"isNationalWonder": true,
+		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Cannot be hurried"],
+		"requiredTech": "Atomic Theory"
 	}
 ]

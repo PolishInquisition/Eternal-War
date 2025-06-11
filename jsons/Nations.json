@@ -29,10 +29,48 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [22,32,85],
-		"uniqueName" "Frozen Resources",
-		"uniques": ["[+1 Production] from every [Tundra]","Double quantity of [Strategic resource] produced"],
+		"uniqueName": "Frozen Resources",
+		"uniques": ["[+1 Production] from every [Tundra]","Double quantity of [Oil] produced",
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
+
 		"cities": ["Halberg","Jørgenstad","Solrød","Yørstad","Ragnberg","Vesterkyst","","Skjoldsborg","Fjordhaven",
 			"Hyldebjerg","Blåvand","Løveholm","Skovdal","Sandgård"]
+		"syNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
+	},
+	{
+		"name": "Republic of Stolland",
+		"leaderName": "Adolf Altmaier",
+		"adjective": ["Stolland"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Godmorgen",
+		"startIntroPart2": "Your lands is very interesting",
+		
+		"declaringWar": "Your Nation stay on my way to Victory.",
+		"attacked": "I only want to go fishing.",
+		"defeated": "It's not over yet",
+		"introduction": "Nordhelm is federation of 6 city-nation leaded by Halberg city and dynasty",
+		
+		"neutralHello": "Godmorgen, we come in peace",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["Yes but actually no"],
+		"neutralYes": ["No but actually yes"],
+
+		"hateHello": "I hope i will never seen you again",
+		"hateLetsHearIt": ["I hope you will end this quickly"],
+		"hateNo": ["What did you expect?"],
+		"hateYes": ["Well... i still hate you"],
+		
+		"afterPeace": "Peace is a break between wars",
+		"tradeRequest": "What did you want, we have everything",
+
+		"outerColor": [255,157,0],
+		"innerColor": [195,239,255],
+		"uniqueName": "Stallburg Mushroom Virus",
+		"uniques": ["[+1 Happiness] from every [City center]","[-5]% Strength <when defending> <for [Military] units>"],
+
+		"cities": ["Stalburg","Obenseuer","Ardscratch","Baltasfell","Cellecter","Ersfors","Forde","Illo","Koksburg","Ploughwedge","Sydhavn","Stemlake","Tarfell","Tilstrand","Erzfell","Fisch",]
 		"syNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
 	}
 ]

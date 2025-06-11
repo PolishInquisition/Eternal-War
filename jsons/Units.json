@@ -27,5 +27,28 @@
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["[Norwegian Ski Infantry] ability"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Mörkö",
+		"replaces": "Great Prophet",
+		"uniqueTo": "Republic of Stolland",
+		"unitType": "Civilian",
+		"uniques": [
+			"Invisible to non-adjacent units",
+			"May Paradrop up to [15] tiles from inside friendly territory",
+			"[-10]% Strength bonus for [Military] units within [1] tiles",
+			"All adjacent units heal [35] HP when healing",
+            "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+            "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
+			"Removes other religions when spreading religion",
+            "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
+            "May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
+            "Is part of Great Person group [Prophet]",
+			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
+			"Takes your religion over the one in their birth city"],
+		"movement": 2,
+		"religiousStrength": 1000
 	}
+
 ]
