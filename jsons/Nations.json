@@ -68,8 +68,8 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Knight's Glory",
-		"uniques": ["[+30]% Strength <for [Melee] units>","[+20]% Production when constructing [Mele] units [in war]",
-			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
+		"uniques": ["[+30]% Strength <for [Melee] units>","[+20]% Production when constructing [Mele] units [in War]",
+			"Can purchased <units> with [Faith] [in all cities in which the majority religion is a major religion]","Double quantity of [Uranium] produced"],
 
 		"cities": ["Orderstadt","Hohenklopf","Esterbach","","Wilhelmsgrün","Oberhausenbach","Brunneldorf","Hirschfelderau","Flinkenhausen",
 			"Neuschweigen","Wiesenmühle","Schwarzenwaldau","Silberbrück","Eichenfeldau"],
