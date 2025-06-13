@@ -69,7 +69,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Knight's Glory",
 		"uniques": ["[+30]% Strength <for [Melee] units>","[+20]% Production when constructing [Mele] units [in War]",
-			"Can purchased [units] with [Faith] [in all cities in which the majority religion is a major religion]","Double quantity of [Uranium] produced"],
+			"[+2 Happiness] [in all cities in which the majority religion is a major religion]"],
 
 		"cities": ["Orderstadt","Hohenklopf","Esterbach","","Wilhelmsgrün","Oberhausenbach","Brunneldorf","Hirschfelderau","Flinkenhausen",
 			"Neuschweigen","Wiesenmühle","Schwarzenwaldau","Silberbrück","Eichenfeldau"],
@@ -83,12 +83,12 @@
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Godmorgen",
-		"startIntroPart2": "Your lands is very interesting",
+		"startIntroPart2": "Zjeb",
 		
-		"declaringWar": "Your Nation stay on my way to Victory.",
-		"attacked": "I only want to go fishing.",
-		"defeated": "It's not over yet",
-		"introduction": "Nordhelm is federation of 6 city-nation leaded by Halberg city and dynasty",
+		"declaringWar": "You broke peace and we come to bring him back.",
+		"attacked": "We come in peace.",
+		"defeated": "War over but our nation never be the same again",
+		"introduction": "Hello, our mission is peace, science and industry",
 		
 		"neutralHello": "Godmorgen, we come in peace",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -100,8 +100,8 @@
 		"hateNo": ["What did you expect?"],
 		"hateYes": ["Well... i still hate you"],
 		
-		"afterPeace": "Peace is a break between wars",
-		"tradeRequest": "What did you want, we have everything",
+		"afterPeace": "Time is on our side",
+		"tradeRequest": "What did you want, We have science and resorces",
 
 		"outerColor": [220,190,0],
 		"innerColor": [180,250,255],
