@@ -7,7 +7,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Godmorgen",
-		"startIntroPart2": "Your lands is very interesting",
+		"startIntroPart2": "Nordhelm is federation of 6 citi-states, the capital and the biggest city is Halberg, Nordhelm is nationalist state ruled by King from Halberg Dynasty.(Constitutional Monarchy)",
 		
 		"declaringWar": "Your Nation stay on my way to Victory.",
 		"attacked": "I only want to go fishing.",
@@ -27,13 +27,13 @@
 		"afterPeace": "Peace is a break between wars",
 		"tradeRequest": "What did you want, we have everything",
 
-		"outerColor": [255,255,255],
-		"innerColor": [22,32,85],
+		"outerColor": [22,32,85],
+		"innerColor": [255,255,255],
 		"uniqueName": "Frozen Resources",
 		"uniques": ["[+1 Production] from every [Tundra]","Double quantity of [Oil] produced",
 			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
 
-		"cities": ["Halberg","Jørgenstad","Solrød","Yørstad","Ragnberg","Vesterkyst","","Skjoldsborg","Fjordhaven",
+		"cities": ["Halberg","Jørgenstad","Solrød","Yørstad","Ragnberg","Vesterkyst","Sealberg","Skjoldsborg","Fjordhaven",
 			"Hyldebjerg","Blåvand","Løveholm","Skovdal","Sandgård"],
 		"syNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
 	},
@@ -45,7 +45,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Gutentag",
-		"startIntroPart2": "Our order wanna visit you",
+		"startIntroPart2": "Teuticus was one of the kingdoms that form from the old empire, Teuticus is Ultra-Nationalist State Ruled by 11 knight's and Greatmaster in the place of President.(Military Junta)",
 		
 		"declaringWar": "Heil Grossmeister Heil Teuticus",
 		"attacked": "Nah i'd win",
@@ -65,15 +65,15 @@
 		"afterPeace": "HEIL TEUTICUS HEIL GROSSMEISTER",
 		"tradeRequest": "What do you want, we have something",
 
-		"outerColor": [255,201,14],
-		"innerColor": [127,127,127],
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"uniqueName": "Knight's Glory",
-		"uniques": ["[+30]% Strength <for [Melee] units>","Double quantity of [Oil] produced",
+		"uniques": ["[+30]% Strength <for [Melee] units>","[+20]% Production when constructing [Mele] units [in war]",
 			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
 
-		"cities": ["Halberg","Jørgenstad","Solrød","Yørstad","Ragnberg","Vesterkyst","","Skjoldsborg","Fjordhaven",
-			"Hyldebjerg","Blåvand","Løveholm","Skovdal","Sandgård"],
-		"syNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
+		"cities": ["Orderstadt","Hohenklopf","Esterbach","","Wilhelmsgrün","Oberhausenbach","Brunneldorf","Hirschfelderau","Flinkenhausen",
+			"Neuschweigen","Wiesenmühle","Schwarzenwaldau","Silberbrück","Eichenfeldau"],
+		"syNames": ["Adolf","Himmler","Gustav","Eirst","Fredrich","Willhelm","The Thing"]
 	},
 	{
 		"name": "Republic of Stolland",
