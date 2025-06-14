@@ -49,7 +49,7 @@
 			"Takes your religion over the one in their birth city"],
 		"movement": 2,
 		"religiousStrength": 1000
-	}
+	},
 	{
 		"name": "Howitzer",
 		"unitType": "Siege",
@@ -77,8 +77,8 @@
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
-		"attackSound": "shot",
-	},
+		"attackSound": "shot"
+	}
 
 
 ]

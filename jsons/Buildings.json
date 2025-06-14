@@ -55,5 +55,19 @@
 		"isNationalWonder": true,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Cannot be hurried"],
 		"requiredTech": "Atomic Theory"
+	},
+	{
+		"name": "Cathedral",
+		"faith": 3,
+		"production": 1,
+		"requiredBuilding": "Shrine",
+		"uniqueTo": "Teuticus Order",
+		"replaces": "Temple",
+		"cityStrength": 2,
+		"cityHealth": 10,
+		"maintenance": 3,
+		"hurryCostModifier": 30,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	}
 ]
