@@ -82,15 +82,15 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Godmorgen",
-		"startIntroPart2": "Zjeb",
+		"startIntroPart1": "God morgon",
+		"startIntroPart2": "",
 		
 		"declaringWar": "You broke peace and we come to bring him back.",
 		"attacked": "We come in peace.",
 		"defeated": "War over but our nation never be the same again",
 		"introduction": "Hello, our mission is peace, science and industry",
 		
-		"neutralHello": "Godmorgen, we come in peace",
+		"neutralHello": "God morgon, we come in peace",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["Yes but actually no"],
 		"neutralYes": ["No but actually yes"],
@@ -103,8 +103,8 @@
 		"afterPeace": "Time is on our side",
 		"tradeRequest": "What did you want, We have science and resorces",
 
-		"outerColor": [220,190,0],
-		"innerColor": [180,250,255],
+		"outerColor": [212,236,237],
+		"innerColor": [225,157,0],
 		"uniqueName": "Stallburg Mushroom Virus",
 		"uniques": ["[+1 Happiness] from every [City center]","[-5]% Strength <when defending> <for [Military] units>"],
 
