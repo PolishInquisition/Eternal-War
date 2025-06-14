@@ -57,7 +57,7 @@
 		"requiredTech": "Atomic Theory"
 	},
 	{
-		"name": "Cathedral",
+		"name": "Holy Cathedral",
 		"faith": 3,
 		"production": 1,
 		"requiredBuilding": "Shrine",
