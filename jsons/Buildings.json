@@ -34,7 +34,7 @@
 		"uniques": ["Cost increases by [30] per owned city","[+10]% Production when constructing [All] buildings [in this city]"],
 		"requiredTech": "Machinery"
 	},
-		{
+	{
 		"name": "Bergman Tunnels",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Republic of Stolland",
@@ -69,5 +69,30 @@
 		"hurryCostModifier": 30,
 		"requiredTech": "Philosophy",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Blast Furnace",
+		"cost": 150,
+		"requiredResource": "Charcoal",
+		"maintenance": 1,
+		"production": 2,
+		"uniques": [
+			"Consumes [2] [Iron]",
+			"Provides [1] [Primitive Steel]"
+		],
+		"requiredTech": "Steel"
+	},
+	{
+		"name": "Steam-powered Blast Furnace",
+		"cost": 370,
+		"requiredResource": "Coal",
+		"requiredBuilding": "Blast Furnace",
+		"requiredTech": "Steam Power",
+		"maintenance": 2,
+		"production": 4,
+		"uniques": [
+			"Consumes [1] [Primitive Steel]",
+			"Provides [1] [Advanced Steel]"
+		]
 	}
 ]

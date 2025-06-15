@@ -69,8 +69,6 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Knight's Glory",
 		"uniques": [
-			"[+1000 Science] [in all cities]","[+1000 Production] [in all cities]",
-			
 			"[+30]% Strength <for [Melee] units>","[+10]% Production when constructing [Melee] units [in all cities]",
 			"[+2 Happiness] [in all cities in which the majority religion is a major religion]"],
 

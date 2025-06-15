@@ -46,7 +46,8 @@
             "Is part of Great Person group [Prophet]",
 			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
 			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
-			"Takes your religion over the one in their birth city"],
+			"Takes your religion over the one in their birth city"
+		],
 		"movement": 2,
 		"religiousStrength": 1000
 	},
@@ -92,7 +93,7 @@
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"requiredResource": "Iron",
+		"requiredResource": "Primitive Steel",
 		"attackSound": "metalhit"
 	},
 	{
@@ -128,5 +129,83 @@
 			"Never appears as a Barbarian unit"
 		],
 		"cost": 70
-	}
+	},
+
+
+	// REPLACES IRON COST WITH PRIMITIVE STELL
+	  {
+        "name": "Longswordsman",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 21,
+        "cost": 120,
+        "requiredTech": "Steel",
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "requiredResource": "Primitive Steel",
+        "attackSound": "metalhit"
+    },
+	{
+        "name": "Samurai",
+        "unitType": "Sword",
+        "replaces": "Longswordsman",
+        "uniqueTo": "Japan",
+        "movement": 2,
+        "strength": 21,
+        "cost": 120,
+        "requiredTech": "Steel",
+        "upgradesTo": "Rifleman",
+        "obsoleteTech": "Rifling",
+        "requiredResource": "Primitive Steel",
+        "promotions": ["Shock I", "Great Generals II"],
+        "uniques": ["Can build [Fishing Boats] improvements on tiles"],
+        "attackSound": "metalhit"
+    },
+	{
+        "name": "Berserker",
+        "unitType": "Sword",
+        "replaces": "Longswordsman",
+        "uniqueTo": "Denmark",
+        "movement": 3,
+        "strength": 21,
+        "cost": 120,
+        "requiredTech": "Metal Casting",
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "requiredResource": "Primitive Steel",
+        "promotions": ["Amphibious"],
+        "hurryCostModifier": 20,
+        "attackSound": "metalhit"
+    },
+	{
+        "name": "Frigate",
+        "unitType": "Ranged Water",
+        "movement": 6,
+        "strength": 25,
+        "rangedStrength": 27,
+        "cost": 185,
+        "requiredResource": "Primitive Steel",
+        "requiredTech": "Navigation",
+        "obsoleteTech": "Electronics",
+        "upgradesTo": "Battleship",
+        "hurryCostModifier": 20,
+        "attackSound": "cannon"
+    },
+    {
+        "name": "Ship of the Line",
+        "unitType": "Ranged Water",
+        "replaces": "Frigate",
+        "uniqueTo": "England",
+        "movement": 5,
+        "strength": 25,
+        "rangedStrength": 30,
+        "cost": 185,
+        "requiredResource": "Primitive Steel",
+        "requiredTech": "Navigation",
+        "obsoleteTech": "Electronics",
+        "upgradesTo": "Battleship",
+        "uniques": ["[+1] Sight"],
+        "hurryCostModifier": 20,
+        "attackSound": "cannon"
+    }
 ]

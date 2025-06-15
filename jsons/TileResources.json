@@ -1,0 +1,29 @@
+[
+    {
+		"name": "Primitive Steel",
+		"resourceType": "Strategic",
+        "revealedBy": "Steel",
+		"uniques": [
+            "Doesn't generate naturally",
+            "Excluded from map editor"
+        ]
+	},
+    {
+		"name": "Advanced Steel",
+		"resourceType": "Strategic",
+        "revealedBy": "Steam Power",
+		"uniques": [
+            "Doesn't generate naturally",
+            "Excluded from map editor"
+        ]
+	},
+    {
+		"name": "Charcoal",
+		"resourceType": "Strategic",
+        "revealedBy": "Engineering",
+		"uniques": [
+            "Doesn't generate naturally",
+            "Excluded from map editor"
+        ]
+	}
+]
