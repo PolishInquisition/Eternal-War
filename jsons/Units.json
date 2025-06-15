@@ -77,6 +77,7 @@
 		"cost": 400,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
+		"uniques": ["Can build [Trench] improvements on tiles"],
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
 	},
@@ -93,7 +94,39 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Dust Bringer",
+		"unitType": "Mounted",
+		"replaces": "Horseman",
+		"uniqueTo": "Kushan Empire",
+		"movement": 5,
+		"strength": 16,
+		"cost": 80,
+		"requiredTech": "Horseback Riding",
+        "requiredResource": "Horses",
+        "upgradesTo": "Knight",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
+		"name": "Warrior Worker",
+		"replaces": "Worker",
+		"unitType": "Scout",
+		"uniqueTo": "Kushan Empire",
+		"movement": 3,
+		"strength": 10,
+		"uniques": [
+			"Can build [Land] improvements on tiles",
+			"Unable to capture cities",
+			"Unable to pillage tiles",
+			"Never appears as a Barbarian unit"
+		],
+		"cost": 70
 	}
-
-
 ]

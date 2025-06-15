@@ -68,12 +68,53 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Knight's Glory",
-		"uniques": ["[+30]% Strength <for [Melee] units>","[+10]% Production when constructing [Mele] units [in all cities]",
+		"uniques": [
+			"[+1000 Science] [in all cities]","[+1000 Production] [in all cities]",
+			
+			"[+30]% Strength <for [Melee] units>","[+10]% Production when constructing [Melee] units [in all cities]",
 			"[+2 Happiness] [in all cities in which the majority religion is a major religion]"],
 
 		"cities": ["Orderstadt","Hohenklopf","Esterbach","","Wilhelmsgrün","Oberhausenbach","Brunneldorf","Hirschfelderau","Flinkenhausen",
 			"Neuschweigen","Wiesenmühle","Schwarzenwaldau","Silberbrück","Eichenfeldau"],
 		"syNames": ["Adolf","Himmler","Gustav","Eirst","Fredrich","Willhelm","The Thing"]
+	},
+	{
+		"name": "Kushan Empire",
+		"leaderName": "Heraios",
+		"adjective": ["Kushan"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Namaste",
+		"startIntroPart2": "Opis",
+		
+		"declaringWar": "Your Nation stay on my way to Victory.",
+		"attacked": "I only want to go fishing.",
+		"defeated": "It's not over yet",
+		"introduction": "Nordhelm welcome you and see you an potenital treade partner",
+		
+		"neutralHello": "Namaste, we come in peace",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["Yes but actually no"],
+		"neutralYes": ["No but actually yes"],
+
+		"hateHello": "I hope i will never seen you again",
+		"hateLetsHearIt": ["I hope you will end this quickly"],
+		"hateNo": ["What did you expect?"],
+		"hateYes": ["Well... i still hate you"],
+		
+		"afterPeace": "Die",
+		"tradeRequest": "What did you want, we have nothing",
+
+		"outerColor": [49, 119, 65],
+		"innerColor": [214, 224, 94],
+		"uniqueName": "LLL",
+		"uniques": [
+			"Starts with [Animal Husbandry]"
+		],
+
+		"cities": ["Kapisa", "Bactra", "Purushapura", "Khotan", "Mathura", "Varanasi", "Pushkalavati", "Taxila"],
+		"spyNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
 	},
 	{
 		"name": "Republic of Stolland",

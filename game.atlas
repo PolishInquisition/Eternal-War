@@ -60,6 +60,13 @@ UnitIcons/Dreadnought
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Dust Bringer
+  rotate: false
+  xy: 1192, 18
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
 UnitIcons/Mörkö
   rotate: false
   xy: 436, 4
@@ -70,6 +77,13 @@ UnitIcons/Mörkö
 UnitIcons/Ski Infantry
   rotate: false
   xy: 760, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Warrior Worker
+  rotate: false
+  xy: 1084, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
