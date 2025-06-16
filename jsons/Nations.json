@@ -106,8 +106,9 @@
 
 		"outerColor": [49, 119, 65],
 		"innerColor": [214, 224, 94],
-		"uniqueName": "LLL",
+		"uniqueName": "Home Desert",
 		"uniques": [
+			"[+1 Production] from every [Desert]",
 			"Starts with [Animal Husbandry]"
 		],
 

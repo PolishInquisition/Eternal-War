@@ -83,7 +83,7 @@
 		"requiredTech": "Steel"
 	},
 	{
-		"name": "Steam-powered Blast Furnace",
+		"name": "Steampowered Blast Furnace",
 		"cost": 370,
 		"requiredResource": "Coal",
 		"requiredBuilding": "Blast Furnace",
