@@ -80,7 +80,7 @@
 		"name": "Kushan Empire",
 		"leaderName": "Heraios",
 		"adjective": ["Kushan"],
-		"startBias": ["Plains"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Namaste",
@@ -108,7 +108,8 @@
 		"innerColor": [214, 224, 94],
 		"uniqueName": "Home Desert",
 		"uniques": [
-			"[+1 Production] from every [Desert]",
+			"Nullifies Growth [in all cities] <in [Snow] tiles>",
+			"[+2 Production] from every [Desert]",
 			"Starts with [Animal Husbandry]"
 		],
 
