@@ -1,4 +1,5 @@
 [
+	//Janek Sz.
 	{
 		"name": "Nordhelm",
 		"leaderName": "Albert Halberg",
@@ -69,13 +70,16 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Knight's Glory",
 		"uniques": [
-			"[+30]% Strength <for [Melee] units>","[+10]% Production when constructing [Melee] units [in all cities]",
-			"[+2 Happiness] [in all cities in which the majority religion is a major religion]"],
+			"[+30]% Strength <for [Melee] units>",
+			"[+20]% Production when constructing [Melee] units [in all cities] <when at war>",
+			"[+2 Happiness] [in all cities in which the majority religion is a major religion]"
+		],
 
 		"cities": ["Orderstadt","Hohenklopf","Esterbach","","Wilhelmsgrün","Oberhausenbach","Brunneldorf","Hirschfelderau","Flinkenhausen",
 			"Neuschweigen","Wiesenmühle","Schwarzenwaldau","Silberbrück","Eichenfeldau"],
 		"syNames": ["Adolf","Himmler","Gustav","Eirst","Fredrich","Willhelm","The Thing"]
 	},
+	//Franek
 	{
 		"name": "Kushan Empire",
 		"leaderName": "Heraios",
@@ -116,6 +120,7 @@
 		"cities": ["Kapisa", "Bactra", "Purushapura", "Khotan", "Mathura", "Varanasi", "Pushkalavati", "Taxila"],
 		"spyNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
 	},
+	//Janek B.
 	{
 		"name": "Republic of Stolland",
 		"leaderName": "Adolf Altmaier",
@@ -151,5 +156,49 @@
 
 		"cities": ["Stalburg","Obenseuer","Ardscratch","Baltasfell","Cellecter","Ersfors","Forde","Illo","Koksburg","Ploughwedge","Sydhavn","Stemlake","Tarfell","Tilstrand","Erzfell","Fisch"],
 		"syNames": ["Mark"]
+	},
+	//Adam
+	{
+		"name": "Adam Nation",
+		"leaderName": "Adam Szewc",
+		"adjective": ["Adam"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Hej",
+		"startIntroPart2": "Jestem Ad4m",
+		
+		"declaringWar": "Your Nation stay on my way to Victory.",
+		"attacked": "I only want to go fishing.",
+		"defeated": "It's not over yet",
+		"introduction": "Nordhelm welcome you and see you an potenital treade partner",
+		
+		"neutralHello": "Hello, we come in peace",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["Yes but actually no"],
+		"neutralYes": ["No but actually yes"],
+
+		"hateHello": "I hope i will never seen you again",
+		"hateLetsHearIt": ["I hope you will end this quickly"],
+		"hateNo": ["What did you expect?"],
+		"hateYes": ["Well... i still hate you"],
+		
+		"afterPeace": "Live",
+		"tradeRequest": "What did you want, we have not too much",
+
+		"outerColor": [69, 69, 69],
+		"innerColor": [42, 42, 42],
+		"uniqueName": "Adam's Purse",
+		"uniques": [
+			"[+20 Gold] [in all cities]",
+			"Will not be chosen for new games"
+		],
+
+		"cities": [
+			"Szubin", "Szubin Wieś", "Szubin Wieś Wieś", "Szubin Wieś Wieś Wieś",
+			"Szubin Wieś Wieś Wieś Wieś", "Szubin Wieś Wieś Wieś Wieś Wieś", "Szubin Wieś Wieś Wieś Wieś Wieś Wieś",
+			"Szubin Wieś Wieś Wieś Wieś Wieś Wieś Wieś"
+		],
+		"spyNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
 	}
 ]
