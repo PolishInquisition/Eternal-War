@@ -94,5 +94,16 @@
 			"Consumes [1] [Primitive Steel]",
 			"Provides [1] [Advanced Steel]"
 		]
-	}
+	},
+	{
+		"name": "Sheriff's Office",
+		"uniqueTo": "Adam Nation",
+		"replaces": "Police Station",
+        "cost": 300,
+        "maintenance": 1,
+        "hurryCostModifier": 10,
+        "uniques": ["Only available <when espionage is enabled>", "[-25]% enemy spy effectiveness [in this city]"],
+        "requiredBuilding": "Constabulary",
+        "requiredTech": "Electricity"
+    }
 ]
