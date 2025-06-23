@@ -186,12 +186,14 @@
 		"afterPeace": "Live",
 		"tradeRequest": "What did you want, we have not too much",
 
-		"outerColor": [69, 69, 69],
-		"innerColor": [42, 42, 42],
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 0],
 		"uniqueName": "Adam's Purse",
 		"uniques": [
-			"[+20 Gold] [in all cities]",
-			"Will not be chosen for new games"
+			"[+1 Happiness] from every [Gold Ore] <starting from the [Ancient era]>",
+			"[+1 Happiness] from every [Gold Ore] <starting from the [Classical era]>",
+			"[-20]% City-State Influence degradation"
+			//"Will not be chosen for new games"
 		],
 
 		"cities": [
