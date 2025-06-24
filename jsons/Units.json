@@ -130,43 +130,33 @@
 		],
 		"cost": 70
 	},
-
-	{
-		"name": "Sheriff",
-		"cost": 150,
-		"uniqueTo": "Adam Nation",
-		"replaces": "Musketman",
-		"unitType": "Gunpowder",
-		"strength": 24,
-		"movement": 2,
-		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
-		"attackSound": "shot",
-		"uniques": [
-			"Gain [5]-[10] [Gold] <when attacking>"
-		]
-	},
 	{
 		"name": "Cowboy",
 		"replaces": "Rifleman",
 		"uniqueTo": "Adam Nation",
 		"unitType": "Gunpowder",
-		"movement": 2,
+		"movement": 4,
 		"strength": 32,
 		"cost": 215,
 		"requiredTech": "Rifling",
+		"requiredResource": "Horses",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
 	{
 		"name": "Miner",
+		"replaces": "Spearman",
 		"unitType": "Civilian",
 		"uniqueTo": "Adam Nation",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
 		"uniques": [
-			"Unbuildable"
-		]
+			"Can build [Mine] improvements on tiles"
+		],
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Electronics"
 	},
 
 

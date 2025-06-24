@@ -96,14 +96,16 @@
 		]
 	},
 	{
-		"name": "Sheriff's Office",
+        "name": "Sheriff's Office",
 		"uniqueTo": "Adam Nation",
-		"replaces": "Police Station",
-        "cost": 300,
-        "maintenance": 1,
+		"replaces": "Constabulary",
+		"gold": 2,
+        "cost": 160,
         "hurryCostModifier": 10,
-        "uniques": ["Only available <when espionage is enabled>", "[-25]% enemy spy effectiveness [in this city]"],
-        "requiredBuilding": "Constabulary",
-        "requiredTech": "Electricity"
+        "uniques": [
+			"Only available <when espionage is enabled>",
+			"[-25]% enemy spy effectiveness [in this city]"
+		],
+        "requiredTech": "Banking"
     }
 ]
