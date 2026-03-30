@@ -117,7 +117,7 @@
 		"uniqueName": "Home Desert",
 		"uniques": [
 			"Nullifies Growth [in all cities] <in [Snow] tiles>",
-			"[+2 Production] from every [Desert]",
+			"[+1 Production] from every [Desert]",
 			"Starts with [Animal Husbandry]"
 		],
 
