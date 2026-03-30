@@ -31,8 +31,12 @@
 		"outerColor": [22,32,85],
 		"innerColor": [255,255,255],
 		"uniqueName": "Frozen Resources",
-		"uniques": ["[+1 Production] from every [Tundra]","Double quantity of [Oil] produced",
-			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
+		"uniques": [
+			"[+1 Production] from every [Tundra]",
+			"[+100]% [Oil] resource production",
+			"[+100]% [Iron] resource production",
+			"[+100]% [Uranium] resource production"
+		],
 
 		"cities": ["Halberg","Jørdstad","Zerküde","Kølædet","Solsë","Sidhåde","Nørdam","Regenfërt","Fjordhaven",
 			"Merkë","Vøreg","Løveholm","Skovdal","Neüstad","Vesterkyst"],
