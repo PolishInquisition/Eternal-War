@@ -2,7 +2,7 @@
 	//Janek Sz.
 	{
 		"name": "Nordhelm",
-		"leaderName": "Albert Halberg",
+		"leaderName": "Herød Colüse",
 		"adjective": ["Norse"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
@@ -13,7 +13,7 @@
 		"declaringWar": "Your Nation stay on my way to Victory.",
 		"attacked": "I only want to go fishing.",
 		"defeated": "It's not over yet",
-		"introduction": "Nordhelm welcome you and see you an potenital treade partner",
+		"introduction": "Nordhelm welcome you and see you an potenital tread partner",
 		
 		"neutralHello": "Godmorgen, we come in peace",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -38,8 +38,8 @@
 			"[+100]% [Uranium] resource production"
 		],
 
-		"cities": ["Halberg","Jørgenstad","Solrød","Yørstad","Ragnberg","Vesterkyst","Sealberg","Skjoldsborg","Fjordhaven",
-			"Hyldebjerg","Blåvand","Løveholm","Skovdal","Sandgård"],
+		"cities": ["Halberg","Jørdstad","Zerküde","Kølædet","Solsë","Sidhåde","Nørdam","Regenfërt","Fjordhaven",
+			"Merkë","Vøreg","Løveholm","Skovdal","Neüstad","Vesterkyst"],
 		"syNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
 	},
 	{
@@ -161,7 +161,7 @@
 		"cities": ["Stalburg","Obenseuer","Ardscratch","Baltasfell","Cellecter","Ersfors","Forde","Illo","Koksburg","Ploughwedge","Sydhavn","Stemlake","Tarfell","Tilstrand","Erzfell","Fisch"],
 		"syNames": ["Mark"]
 	},
-	//Adam
+	//System Adas
 	{
 		"name": "Adam Nation",
 		"leaderName": "Adam Szewc",
