@@ -25,7 +25,7 @@ BuildingIcons/Coastal battery
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Cold Dock
+BuildingIcons/Norhavn
   rotate: false
   xy: 1158, 368
   size: 100, 100
