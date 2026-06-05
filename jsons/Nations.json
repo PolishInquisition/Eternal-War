@@ -234,7 +234,7 @@
 		"uniqueName": "River Trade",
 		"uniques": ["[+1 Gold] from every [River]"],
 
-		"cities": ["Presov"],
+		"cities": ["Presov","Hlovec","Kutná Hora","Wasyłków","Rypin","Węgrów","Tarnobrzeg","Żytomierz","Bielce","Mikołajów","Lubań","Bydgoszcz","Siewierskodonieck","Choroszcz","Eger","Igława","Kladno","Białograd" ],
 		"syNames": ["Jan","Grzegorz"]
 	},
 	//Adam
