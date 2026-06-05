@@ -40,7 +40,7 @@
 
 		"cities": ["Halberg","Jørdstad","Zerküde","Kølædet","Solsë","Sidhåde","Nørdam","Regenfërt","Fjordhaven",
 			"Merkë","Vøreg","Løveholm","Skovdal","Neüstad","Vesterkyst"],
-		"syNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
+		"spyNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
 	},
 	{
 		"name": "Verze Union",
@@ -80,7 +80,7 @@
 
 		"cities": ["Verzestad","Kleirig","Errtig","Lospe","Vilhelze","Komredor","Brunneldorf","Jusefurt","Pelse",
 			"Terferp","Hosser","Arwertia","Gusde","Nulzter","Mermid"],
-		"syNames": ["Federio","Hizer","Gustav","Eirst","Fredrich","Willhelm","The One"]
+		"spyNames": ["Federio","Hizer","Gustav","Eirst","Fredrich","Willhelm","The One"]
 	},
 	//Franek
 	{
@@ -198,7 +198,7 @@
 		"uniques": ["[+1 Happiness] from every [City center]","[-5]% Strength <when defending> <for [Military] units>"],
 
 		"cities": ["Stalburg","Obenseuer","Fisch","Ardscratch","Baltasfell","Cellecter","Ersfors","Forde","Illo","Koksburg","Ploughwedge","Sydhavn","Stemlake","Tarfell","Tilstrand","Erzfell"],
-		"syNames": ["Mark"]
+		"spyNames": ["Markku Siltanen","Paul Lauwens","Amit Rahal","Carla Diethart","Steve Johnson"]
 	},
 
 	{
@@ -235,7 +235,7 @@
 		"uniques": ["[+1 Gold] from every [River]"],
 
 		"cities": ["Presov","Hlovec","Kutná Hora","Wasyłków","Rypin","Węgrów","Tarnobrzeg","Żytomierz","Bielce","Mikołajów","Lubań","Bydgoszcz","Siewierskodonieck","Choroszcz","Eger","Igława","Kladno","Białograd" ],
-		"syNames": ["Jan","Grzegorz"]
+		"spyNames": ["Jan","Grzegorz"]
 	},
 	//Adam
 	//System Adas
