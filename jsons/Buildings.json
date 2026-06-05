@@ -1,28 +1,27 @@
 [
 	{
-		"name": "Cold Dock",
+		"name": "Norserg",
 		"replaces": "Seaport",
 		"uniqueTo": "Nordhelm",
 		"hurryCostModifier": 25,
 		"maintenance": 3,
 		"uniques": [
-			"[+1 Production, +2 Gold] from [Tundra] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Fur] tiles [in this city]",
 			"Must be next to [Coast]",
-			"[+20]% Production when constructing [Water] units [in this city]"
+			"[+10]% Production when constructing [Water] units [in this city]"
 		],
+		"percentStatBonus": {"production": 5},
 		"requiredBuilding": "Harbor",
 		"requiredTech": "Navigation"
 	},
 	{
-		"name": "Brick Dam",
-		"replaces": "Water Mill",
+		"name": "Rådhus",
 		"uniqueTo": "Nordhelm",
-		"maintenance": 2,
-		"food": 3,
-		"production": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["Must be on [River]"],
-		"requiredTech": "The Wheel"
+		"maintenance": 1,
+		"uniques": ["[+5]% Great Person generation [in this city]","[+1 Gold] from [Fur] tiles [in this city]","Automatically built in all cities where it is buildable","Destroyed when the city is captured"],
+		"percentStatBonus": {"gold": 10},
+		"hurryCostModifier": 35,
+		"requiredTech": "Engineering"
 	},
 	{
 		"name": "Stallburg Steel",
