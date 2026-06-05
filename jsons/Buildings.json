@@ -69,22 +69,30 @@
 		"requiredTech": "Atomic Theory"
 	},
 	{
-		"name": "Holy Cathedral",
-		"faith": 3,
-		"production": 1,
-		"requiredBuilding": "Shrine",
-		"uniqueTo": "Teuticus Order",
-		"replaces": "Temple",
-		"cityStrength": 2,
-		"cityHealth": 10,
-		"maintenance": 3,
-		"hurryCostModifier": 30,
-		"requiredTech": "Philosophy",
-		"uniques": [
-			"Only available <when religion is enabled>",
-			"Destroyed when the city is captured"
-		]
+		"name": "Industrial Complex",
+		"replaces": "Factory",
+		"uniqueTo": "Verze Union",
+		"cost": 390,
+		"production": 4,
+		"percentStatBonus": {"production": 15},
+		"specialistSlots": {"Engineer": 3},
+		"requiredBuilding": "Workshop",
+		"maintenance": 4,
+		"hurryCostModifier": 0,
+		"requiredResource": "Consumes [2] [Coal]",
+		"requiredTech": "Industrialization"
 	},
+	{
+        "name": "Rode Office",
+		"replaces": "Police Station",
+		"uniqueTo": "Verze Union",
+        "cost": 300,
+        "maintenance": 1,
+        "hurryCostModifier": 10,
+        "uniques": ["Only available <when espionage is enabled>", "[-40]% enemy spy effectiveness [in this city]", "[+1] Happines [in this city]",
+        "requiredBuilding": "Constabulary",
+        "requiredTech": "Electricity"
+    },
 	{
 		"name": "Blast Furnace",
 		"cost": 150,
