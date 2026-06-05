@@ -79,7 +79,9 @@
 		"requiredBuilding": "Workshop",
 		"maintenance": 4,
 		"hurryCostModifier": 0,
-		"requiredResource": "Coal",
+		"uniques": [
+			"Consumes [2] [Coal]"
+		],
 		"requiredTech": "Industrialization"
 	},
 	{
