@@ -70,8 +70,8 @@
 		"afterPeace": "Lang leve de revolutie!",
 		"tradeRequest": "What do you want, we have everything",
 
-		"outerColor": [215,121,121],
-		"innerColor": [206,138,79],
+		"outerColor": [210,134,76],
+		"innerColor": [159,68,61],
 		"uniqueName": "Revolution Zeal",
 		"uniques": [
 			"[+10]% Production when constructing [Gunpowder] units [in all cities] <when at war>",
