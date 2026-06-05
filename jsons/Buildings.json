@@ -69,6 +69,16 @@
 		"requiredTech": "Atomic Theory"
 	},
 	{
+		"name": "River Arena",
+		"replaces": "Circus",
+		"uniqueTo": "Union of Presov",
+		"maintenance": 2,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [River]","[+2 Culture] from [River] tiles [in this city]"],
+		"requiredTech": "The Wheel"
+	},
+	{
 		"name": "Industrial Complex",
 		"replaces": "Factory",
 		"uniqueTo": "Verze Union",
