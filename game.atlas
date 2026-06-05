@@ -25,16 +25,16 @@ BuildingIcons/Coastal battery
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Norhavn
+BuildingIcons/Industrial Complex
   rotate: false
-  xy: 1158, 368
+  xy: 1374, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Industrial Complex
+BuildingIcons/Norhavn
   rotate: false
-  xy: 1482, 368
+  xy: 1698, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -46,9 +46,16 @@ BuildingIcons/Rode Office
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Rådhus
+  rotate: false
+  xy: 1266, 260
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Stallburg Steel
   rotate: false
-  xy: 1374, 260
+  xy: 1482, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -62,7 +69,7 @@ BuildingIcons/Steampowered Blast Furnace
   index: -1
 BuildingIcons/Stolland Nuclear Weapons
   rotate: false
-  xy: 1482, 260
+  xy: 1590, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -76,7 +83,7 @@ NationIcons/Kushan Empire
   index: -1
 NationIcons/Nordhelm
   rotate: false
-  xy: 1698, 368
+  xy: 1590, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -90,14 +97,14 @@ NationIcons/Republic of Stolland
   index: -1
 NationIcons/Union of Presov
   rotate: false
-  xy: 1698, 260
+  xy: 1806, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Verze Union
   rotate: false
-  xy: 1914, 260
+  xy: 212, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -132,21 +139,21 @@ ResourceIcons/Sulfur
   index: -1
 UnitIcons/Dreadnought
   rotate: false
-  xy: 1266, 368
+  xy: 1158, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Howitzer
   rotate: false
-  xy: 1374, 368
+  xy: 1266, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mörkö
   rotate: false
-  xy: 1590, 368
+  xy: 1482, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -167,28 +174,28 @@ UnitIcons/River Ship
   index: -1
 UnitIcons/Ski Infantry
   rotate: false
-  xy: 1266, 260
+  xy: 1374, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sturmtruppen
   rotate: false
-  xy: 1590, 260
+  xy: 1698, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Valk
   rotate: false
-  xy: 1806, 260
+  xy: 1914, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warrior Worker
   rotate: false
-  xy: 212, 104
+  xy: 320, 110
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
