@@ -11,7 +11,9 @@
 		"cost": 470,
 		"requiredTech": "Electronics",
 		"requiredResource": "Oil",
-		"requiredResource": "Advanced Steel",
+		"uniques": [
+			"Consumes [1] [Advanced Steel]"
+		],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"
 	},
@@ -130,8 +132,10 @@
 		"strength": 32,
 		"cost": 215,
 		"requiredResource": "Sulfur",
+		"uniques": [
+			"Consumes [1] [Horses]"
+		],
 		"requiredTech": "Rifling",
-		"requiredResource": "Horses",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
@@ -205,7 +209,9 @@
         "rangedStrength": 27,
         "cost": 185,
         "requiredResource": "Primitive Steel",
-		"requiredResource": "Sulfur",
+		"uniques": [
+			"Consumes [1] [Sulfur]"
+		],
         "requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
         "upgradesTo": "Battleship",
@@ -222,11 +228,13 @@
         "rangedStrength": 30,
         "cost": 185,
         "requiredResource": "Primitive Steel",
-		"requiredResource": "Sulfur",
         "requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
         "upgradesTo": "Battleship",
-        "uniques": ["[+1] Sight"],
+        "uniques": [
+			"[+1] Sight",
+			"Consumes [1] [Sulfur]"
+		],
         "hurryCostModifier": 20,
         "attackSound": "cannon"
     },
@@ -247,7 +255,7 @@
 			"Can build [All Road] improvements on tiles"
 		],
 		"cost": 75
-	}
+	},
 
 	// ADD SULFUR
 
@@ -377,10 +385,14 @@
 		"cost": 250,
 		"requiredTech": "Steam Power",
 		"requiredResource": "Coal",
-		"requiredResource": "Advanced Steel",
 		"upgradesTo": "Destroyer",
 		"obsoleteTech": "Combustion",
-		"uniques": ["[+33]% Strength <vs cities>","Double movement in [Coast]", "Never appears as a Barbarian unit"],
+		"uniques": [
+			"[+33]% Strength <vs cities>",
+			"Double movement in [Coast]",
+			"Never appears as a Barbarian unit",
+			"Consumes [1] [Advanced Steel]"
+		],
 		"attackSound": "shipguns"
 	},
 	{
@@ -415,9 +427,11 @@
 		"range": 3,
 		"cost": 375,
 		"requiredResource": "Advanced Steel",
-		"requiredResource": "Oil",
 		"requiredTech": "Electronics",
-		"uniques": ["Never appears as a Barbarian unit"],
+		"uniques": [
+			"Never appears as a Barbarian unit",
+			"Consumes [1] [Oil]"
+		],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"
 		// Does not actually upgrade to Missile Cruisers
@@ -430,10 +444,14 @@
 		"cost": 350,
 		"requiredResource": "Advanced Steel",
 		"requiredTech": "Combustion",
-		"requiredResource": "Oil",
 		"upgradesTo": "Tank",
 		"obsoleteTech": "Combined Arms",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Never appears as a Barbarian unit",
+			"Consumes [1] [Oil]"
+		],
 		"attackSound": "tankshot"
 	},
 ]
