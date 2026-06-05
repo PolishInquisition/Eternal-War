@@ -6,168 +6,182 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Bergman Tunnels
   rotate: false
-  xy: 4, 4
+  xy: 942, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Blast Furnace
   rotate: false
-  xy: 612, 231
+  xy: 4, 212
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/Coastal battery
   rotate: false
-  xy: 612, 123
+  xy: 1050, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Cold Dock
   rotate: false
-  xy: 1758, 387
+  xy: 1158, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Industrial Complex
   rotate: false
-  xy: 1866, 387
+  xy: 1482, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Stallburg Steel
   rotate: false
-  xy: 544, 4
+  xy: 1266, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Steampowered Blast Furnace
   rotate: false
-  xy: 876, 237
+  xy: 268, 218
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Stolland Nuclear Weapons
   rotate: false
-  xy: 652, 15
+  xy: 1374, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Kushan Empire
   rotate: false
-  xy: 1974, 416
+  xy: 212, 133
   size: 69, 71
   orig: 69, 71
   offset: 0, 0
   index: -1
 NationIcons/Nordhelm
   rotate: false
-  xy: 328, 4
+  xy: 1698, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Republic of Stolland
   rotate: false
-  xy: 1758, 279
+  xy: 942, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Union of Presov
   rotate: false
-  xy: 828, 123
+  xy: 1590, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Verze Union
   rotate: false
-  xy: 936, 129
+  xy: 1806, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Advanced Steel
   rotate: false
-  xy: 1134, 287
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ResourceIcons/Charcoal
   rotate: false
-  xy: 1342, 287
+  xy: 526, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ResourceIcons/Primitive Steel
   rotate: false
-  xy: 436, 4
+  xy: 1914, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Sulfur
   rotate: false
-  xy: 1550, 287
+  xy: 734, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Dreadnought
   rotate: false
-  xy: 112, 4
+  xy: 1266, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Howitzer
   rotate: false
-  xy: 720, 123
+  xy: 1374, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mörkö
   rotate: false
-  xy: 220, 4
+  xy: 1590, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Orkaan
+  rotate: false
+  xy: 1806, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/River Ship
+  rotate: false
+  xy: 1050, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ski Infantry
   rotate: false
-  xy: 1866, 279
+  xy: 1158, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sturmtruppen
   rotate: false
-  xy: 760, 15
+  xy: 1482, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/ValkJet
+UnitIcons/Valk
   rotate: false
-  xy: 4, 112
-  size: 600, 375
-  orig: 600, 375
+  xy: 1698, 260
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warrior Worker
   rotate: false
-  xy: 1044, 129
+  xy: 1914, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
