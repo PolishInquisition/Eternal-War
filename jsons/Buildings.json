@@ -89,7 +89,7 @@
         "cost": 300,
         "maintenance": 1,
         "hurryCostModifier": 10,
-        "uniques": ["Only available <when espionage is enabled>", "[-40]% enemy spy effectiveness [in this city]", "[+1] Happines [in this city]",
+        "uniques": ["Only available <when espionage is enabled>", "[-40]% enemy spy effectiveness [in this city]", "[+1] Happines [in this city]"],
         "requiredBuilding": "Constabulary",
         "requiredTech": "Electricity"
     },
