@@ -43,45 +43,44 @@
 		"syNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
 	},
 	{
-		"name": "Teuticus Order",
-		"leaderName": "Grossmeister Meinstein",
-		"adjective": ["Teuton"],
+		"name": "Verze Union",
+		"leaderName": "Federic vor Oselt",
+		"adjective": ["Verze"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Gutentag",
-		"startIntroPart2": "Teuticus was one of the kingdoms that form from the old empire, Teuticus is Ultra-Nationalist State Ruled by 11 knight's and Greatmaster in the place of President.(Military Junta)",
+		"startIntroPart2": "Verze Union is nation that is ruled by 2 main and olny parties, Verke Partie and Ratze Partie. Verze Union id also a union of 4 countries/subregions.",
 		
-		"declaringWar": "Heil Grossmeister Heil Teuticus",
+		"declaringWar": "You stand on our way to unify world under red banner",
 		"attacked": "Nah i'd win",
-		"defeated": "Order never die",
-		"introduction": "Welcome, we are the True ORDER that bring peace and prosperity to the world",
+		"defeated": "Revolution never die",
+		"introduction": "Welcome, if you support worker's don't worry we are the WORKERS, if not prepare for revolution.",
 		
-		"neutralHello": "Gutentag my neighbour",
+		"neutralHello": "Hello, my fellow komrade",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["Yes but actually no"],
 		"neutralYes": ["No but actually yes"],
 
-		"hateHello": "Next time you will be in my empire",
+		"hateHello": "Your capitalist words hurt my ear durms",
 		"hateLetsHearIt": ["Talk but fast, i don't wanna hear you"],
 		"hateNo": ["Pissoff"],
-		"hateYes": ["Nice gift my subject"],
+		"hateYes": ["Nice gift my my fellow client state"],
 		
-		"afterPeace": "HEIL TEUTICUS HEIL GROSSMEISTER",
-		"tradeRequest": "What do you want, we have something",
+		"afterPeace": "Lang leve de revolutie!",
+		"tradeRequest": "What do you want, we have everything",
 
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
-		"uniqueName": "Knight's Glory",
+		"uniqueName": "Revolution Zeal",
 		"uniques": [
-			"[+30]% Strength <for [Melee] units>",
-			"[+20]% Production when constructing [Melee] units [in all cities] <when at war>",
-			"[+2 Happiness] [in all cities in which the majority religion is a major religion]"
+			"[+10]% Production when constructing [Gunpowder] units [in all cities] <when at war>",
+			"[+1 Happiness] [in all cities in which Factory and Military Academy]"
 		],
 
-		"cities": ["Orderstadt","Hohenklopf","Esterbach","","Wilhelmsgrün","Oberhausenbach","Brunneldorf","Hirschfelderau","Flinkenhausen",
-			"Neuschweigen","Wiesenmühle","Schwarzenwaldau","Silberbrück","Eichenfeldau"],
-		"syNames": ["Adolf","Himmler","Gustav","Eirst","Fredrich","Willhelm","The Thing"]
+		"cities": ["Verzestad","Kleirig","Errtig","Lospe","Vilhelze","Komredor","Brunneldorf","Jusefurt","Pelse",
+			"Terferp","Hosser","Arwertia","Gusde","Nulzter","Mermid"],
+		"syNames": ["Federio","Hizer","Gustav","Eirst","Fredrich","Willhelm","The One"]
 	},
 	//Franek
 	{
@@ -158,9 +157,47 @@
 		"uniqueName": "Stallburg Mushroom Virus",
 		"uniques": ["[+1 Happiness] from every [City center]","[-5]% Strength <when defending> <for [Military] units>"],
 
-		"cities": ["Stalburg","Obenseuer","Ardscratch","Baltasfell","Cellecter","Ersfors","Forde","Illo","Koksburg","Ploughwedge","Sydhavn","Stemlake","Tarfell","Tilstrand","Erzfell","Fisch"],
+		"cities": ["Stalburg","Obenseuer","Fisch","Ardscratch","Baltasfell","Cellecter","Ersfors","Forde","Illo","Koksburg","Ploughwedge","Sydhavn","Stemlake","Tarfell","Tilstrand","Erzfell"],
 		"syNames": ["Mark"]
 	},
+
+	{
+		"name": "Union of Presov",
+		"leaderName": "John Presov",
+		"adjective": ["Presov"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Dzień dobry",
+		"startIntroPart2": "",
+		
+		"declaringWar": "You broke peace and we come to bring him back.",
+		"attacked": "We come in peace.",
+		"defeated": "War over but our nation never be the same again",
+		"introduction": "Hello, our mission is peace, science and industry",
+		
+		"neutralHello": "God morgon, we come in peace",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["Yes but actually no"],
+		"neutralYes": ["No but actually yes"],
+
+		"hateHello": "I hope i will never seen you again",
+		"hateLetsHearIt": ["I hope you will end this quickly"],
+		"hateNo": ["What did you expect?"],
+		"hateYes": ["Well... i still hate you"],
+		
+		"afterPeace": "Time is on our side",
+		"tradeRequest": "What did you want, We have science and resorces",
+
+		"outerColor": [190,0,0],
+		"innerColor": [240,240,240 ],
+		"uniqueName": "River Trade",
+		"uniques": ["[+1 Gold] from every [River]"],
+
+		"cities": ["Presov"],
+		"syNames": ["Jan","Grzegorz"]
+	},
+	//Adam
 	//System Adas
 	{
 		"name": "Adam Nation",
