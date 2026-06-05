@@ -32,9 +32,9 @@ BuildingIcons/Cold Dock
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Holy Cathedral
+BuildingIcons/Industrial Complex
   rotate: false
-  xy: 1374, 368
+  xy: 1482, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -42,13 +42,6 @@ BuildingIcons/Holy Cathedral
 BuildingIcons/Stallburg Steel
   rotate: false
   xy: 1050, 260
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Stallburg Steel - Copy
-  rotate: false
-  xy: 1158, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -62,14 +55,14 @@ BuildingIcons/Steampowered Blast Furnace
   index: -1
 BuildingIcons/Stolland Nuclear Weapons
   rotate: false
-  xy: 1266, 260
+  xy: 1158, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Kushan Empire
   rotate: false
-  xy: 1806, 289
+  xy: 1698, 289
   size: 69, 71
   orig: 69, 71
   offset: 0, 0
@@ -88,16 +81,16 @@ NationIcons/Republic of Stolland
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Teuticus Order
+NationIcons/Union of Presov
   rotate: false
-  xy: 1482, 260
+  xy: 1374, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Union of Presov
+NationIcons/Verze Union
   rotate: false
-  xy: 1590, 260
+  xy: 1482, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -139,7 +132,7 @@ UnitIcons/Dreadnought
   index: -1
 UnitIcons/Howitzer
   rotate: false
-  xy: 1482, 368
+  xy: 1374, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -160,14 +153,14 @@ UnitIcons/Ski Infantry
   index: -1
 UnitIcons/Sturmtruppen
   rotate: false
-  xy: 1374, 260
+  xy: 1266, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warrior Worker
   rotate: false
-  xy: 1698, 260
+  xy: 1590, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
