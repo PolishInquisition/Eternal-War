@@ -154,8 +154,45 @@
 		"uniqueName": "Stallburg Mushroom Virus",
 		"uniques": ["[+1 Happiness] from every [City center]","[-5]% Strength <when defending> <for [Military] units>"],
 
-		"cities": ["Stalburg","Obenseuer","Ardscratch","Baltasfell","Cellecter","Ersfors","Forde","Illo","Koksburg","Ploughwedge","Sydhavn","Stemlake","Tarfell","Tilstrand","Erzfell","Fisch"],
+		"cities": ["Stalburg","Obenseuer","Fisch","Ardscratch","Baltasfell","Cellecter","Ersfors","Forde","Illo","Koksburg","Ploughwedge","Sydhavn","Stemlake","Tarfell","Tilstrand","Erzfell"],
 		"syNames": ["Mark"]
+	},
+
+	{
+		"name": "Union of Presov",
+		"leaderName": "John Presov",
+		"adjective": ["Presov"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Dzień dobry",
+		"startIntroPart2": "",
+		
+		"declaringWar": "You broke peace and we come to bring him back.",
+		"attacked": "We come in peace.",
+		"defeated": "War over but our nation never be the same again",
+		"introduction": "Hello, our mission is peace, science and industry",
+		
+		"neutralHello": "God morgon, we come in peace",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["Yes but actually no"],
+		"neutralYes": ["No but actually yes"],
+
+		"hateHello": "I hope i will never seen you again",
+		"hateLetsHearIt": ["I hope you will end this quickly"],
+		"hateNo": ["What did you expect?"],
+		"hateYes": ["Well... i still hate you"],
+		
+		"afterPeace": "Time is on our side",
+		"tradeRequest": "What did you want, We have science and resorces",
+
+		"outerColor": [190,0,0],
+		"innerColor": [240,240,240 ],
+		"uniqueName": "River Trade",
+		"uniques": ["[+1 Gold] from every [River]"],
+
+		"cities": ["Presov"],
+		"syNames": ["Jan","Grzegorz"]
 	},
 	//Adam
 	{
