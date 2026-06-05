@@ -123,6 +123,46 @@
 		"cities": ["Kapisa", "Bactra", "Purushapura", "Khotan", "Mathura", "Varanasi", "Pushkalavati", "Taxila"],
 		"spyNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
 	},
+	{
+		"name": "Pacipith Maac",
+		"leaderName": "Jɔɔn pööl",
+		"adjective": [""],
+		"startBias": ["Water resource", "Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Nerä ji",
+		"startIntroPart2": "ɛuŋ tuɔk ɔ",
+		
+		"declaringWar": "Mal te kɛ yiɛ",
+		"attacked": "Mal te kɛ yiɛ",
+		"defeated": "Mal te kɛ yiɛ",
+		"introduction": "Mal te kɛ yiɛ",
+		
+		"neutralHello": "Nerä ji, Mal te kɛ yiɛ",
+		"neutralLetsHearIt": ["Mal te kɛ yiɛ"],
+		"neutralNo": ["Yes but actually no"],
+		"neutralYes": ["No but actually yes"],
+
+		"hateHello": "Mal te kɛ yiɛ",
+		"hateLetsHearIt": ["Mal te kɛ yiɛ"],
+		"hateNo": ["Mal te kɛ yiɛ"],
+		"hateYes": ["Mal te kɛ yiɛ"],
+		
+		"afterPeace": "kɛ ɣöö /ca kɔn bi röm",
+		"tradeRequest": "What did you want, we have something",
+
+		"outerColor": [49, 119, 65],
+		"innerColor": [214, 224, 94],
+		"uniqueName": "Pacifist's Skills",
+		"uniques": [
+			"Comment [This no work, this useless. Do not use]",
+			"Gain [-999] [Happiness] <hidden from users>",
+			"Will not be chosen for new games"
+		],
+
+		"cities": ["Kapisa", "Bactra", "Purushapura", "Khotan", "Mathura", "Varanasi", "Pushkalavati", "Taxila"],
+		"spyNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
+	},
 	//Janek B.
 	{
 		"name": "Republic of Stolland",
