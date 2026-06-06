@@ -143,7 +143,7 @@
         "requiredTech": "Banking"
     }
 	{
-		"name": "Modern Ironworks",
+		"name": "Modern Foundry",
 		"cost": 410,
 		"requiredResource": "Coal",
 		"requiredTech": "Electronics",
