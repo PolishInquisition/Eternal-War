@@ -142,4 +142,16 @@
 		],
         "requiredTech": "Banking"
     }
+	{
+		"name": "Modern Ironworks",
+		"cost": 410,
+		"requiredResource": "Coal",
+		"requiredTech": "Electricity",
+		"maintenance": 3,
+		"production": 5,
+		"uniques": [
+			"Consumes [1] [Aluminum]",
+			"Provides [1] [Aluminum Alloy]"
+		]
+	},
 ]
