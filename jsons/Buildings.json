@@ -6,7 +6,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 3,
 		"uniques": [
-			"[+1 Production, +1 Gold] from [Fur] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Furs] tiles [in this city]",
 			"Must be next to [Coast]",
 			"[+10]% Production when constructing [Water] units [in this city]"
 		],
@@ -18,7 +18,7 @@
 		"name": "Rådhus",
 		"uniqueTo": "Nordhelm",
 		"maintenance": 1,
-		"uniques": ["[+5]% Great Person generation [in this city]","[+1 Gold] from [Fur] tiles [in this city]","Automatically built in all cities where it is buildable","Destroyed when the city is captured"],
+		"uniques": ["[+5]% Great Person generation [in this city]","[+1 Gold] from [Furs] tiles [in this city]","Automatically built in all cities where it is buildable","Destroyed when the city is captured"],
 		"percentStatBonus": {"gold": 10},
 		"hurryCostModifier": 35,
 		"requiredTech": "Engineering"
@@ -35,7 +35,8 @@
 		"uniques": [
 			"Cost increases by [30] per owned city",
 			"[+10]% Production when constructing [All] buildings [in this city]",
-			"Provides [1] [Primitive Steel] <after discovering [Steel]>"
+			"Provides [1] [Advanced Steel] <after discovering [Steel]>",
+			"Provides [1] [Primitive Steel] <after discovering [Steam Power]>"
 		],
 		"requiredTech": "Machinery"
 	},

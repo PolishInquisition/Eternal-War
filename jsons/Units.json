@@ -244,13 +244,13 @@
 		"replaces": "Galleass",
 		"unitType": "Archery",
 		"uniqueTo": "Union of Presov",
-		"movement": 2,
+		"movement": 3,
 		"strength": 14,
 		"rangedStrength": 15,
 		"range": 2,
 		"uniques": [
 			"Cannot move <in tiles without [City center]> <in tiles without [All Road]> <in tiles without [Water]> <in tiles without [River]>",
-			"[-2] Movement <in [All Road] tiles> <in tiles without [River]>",
+			"[-3] Movement <in [All Road] tiles> <in tiles without [River]>",
 			"May travel on Water tiles without embarking",
 			"All tiles cost 1 movement",
 			"Can build [All Road] improvements on tiles"
