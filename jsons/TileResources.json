@@ -11,7 +11,7 @@
 	{
 		"name": "Aluminum Alloy",
 		"resourceType": "Strategic",
-		"revealedBy": "Electricity",
+		"revealedBy": "Electronics",
 		"uniques": [
             "Doesn't generate naturally",
             "Excluded from map editor"
