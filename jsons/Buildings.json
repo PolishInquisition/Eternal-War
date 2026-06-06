@@ -142,7 +142,7 @@
 			"[-25]% enemy spy effectiveness [in this city]"
 		],
         "requiredTech": "Banking"
-    }
+    },
 	{
 		"name": "Modern Foundry",
 		"cost": 410,
@@ -154,5 +154,5 @@
 			"Consumes [1] [Aluminum]",
 			"Provides [1] [Aluminum Alloy]"
 		]
-	},
+	}
 ]

@@ -246,6 +246,7 @@
 		"uniqueTo": "Union of Presov",
 		"movement": 3,
 		"strength": 14,
+		"requiredTech": "Compass",
 		"rangedStrength": 15,
 		"range": 2,
 		"uniques": [
@@ -256,6 +257,19 @@
 			"Can build [All Road] improvements on tiles"
 		],
 		"cost": 75
+	},
+	{
+		"name": "Winged Hussar",
+		"replaces": "Lancer",
+		"unitType": "Mounted",
+		"uniqueTo": "Union of Presov",
+		"movement": 5,
+		"strength": 30,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I"],
+		"cost": 200
 	},
 
 	// ADD SULFUR
@@ -593,5 +607,5 @@
 		"requiredResource": "Aluminum Alloy",
 		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
-	},
+	}
 ]
