@@ -283,5 +283,29 @@
 			"Szubin Wieś Wieś Wieś Wieś Wieś Wieś Wieś"
 		],
 		"spyNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
+	},
+	{
+		"name": "Szubin Wieś",
+		"adjective": ["Szubin Wieś"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 0],
+		"cities": ["Szubin Wieś"]
+	},
+	{
+		"name": "Damasławek",
+		"adjective": ["Damasławek"],
+		"cityStateType": "Religious", // Changed from Cultured to Religious in GK
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51, 97, 242],
+		"cities": ["Damasławek"]
 	}
 ]
