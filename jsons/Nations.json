@@ -82,6 +82,46 @@
 			"Terferp","Hosser","Arwertia","Gusde","Nulzter","Mermid"],
 		"spyNames": ["Adelf","Hizzer","Gustav","Eirst","Fredrich","Willhelm","The One"]
 	},
+	{
+		"name": "Lazuria Republic",
+		"leaderName": "Morcel de Liverio",
+		"adjective": ["Lazur"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Bonjur",
+		"startIntroPart2": "Welcome in Lazurian Republic, this country orginaly was a part of Merewia but when Liberal idea come to Ories people start a revolution that liberate all of the east part of Merewian Empire. Now Lazuria is Home of Freedom and is the most liberal country in world.",
+		
+		"declaringWar": "Your dictatorship end now",
+		"attacked": "Nah i'd win",
+		"defeated": "Rest in Peace Victoria et'Libertia",
+		"introduction": "Lazurian Republic welcome you in Peace and Trade.",
+		
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["Yes but actually no"],
+		"neutralYes": ["No but actually yes"],
+
+		"hateHello": "What you want, you traitor",
+		"hateLetsHearIt": ["Talk but fast, i don't wanna hear you"],
+		"hateNo": ["Pissoff"],
+		"hateYes": ["This time i agree"],
+		
+		"afterPeace": "Peac at last",
+		"tradeRequest": "Our capotalist have open mind in trade",
+
+		"outerColor": [255,255,255],
+		"innerColor": [66,172,205],
+		"uniqueName": "Nation of Freedom",
+		"uniques": [
+			"[+10]% <science> from great gcientist",
+			"[+1 Happiness] [in this city in which science specialist]"
+		],
+
+		"cities": ["Ories","Leios","Arties","Nouve Visa","Fose","Posalia","Nisetia","Judia","Tilon",
+					"Haden","Salia Aquilia"],
+		"spyNames": ["Losie","Petie","Jues","Morcel","Mocron","Vilion","Baquet"]
+	},
 	//Franek
 	{
 		"name": "Kushan Empire",
