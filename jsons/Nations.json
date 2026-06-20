@@ -114,8 +114,8 @@
 		"innerColor": [66,172,205],
 		"uniqueName": "Nation of Freedom",
 		"uniques": [
-			"[+10]% <science> from great gcientist",
-			"[+1 Happiness] [in this city in which science specialist]"
+			"[+10]% [science] from [great scientist]",
+			"[+1 Happiness] [in this city] from every [science specialist]"
 		],
 
 		"cities": ["Ories","Leios","Arties","Nouve Visa","Fose","Posalia","Nisetia","Judia","Tilon",
