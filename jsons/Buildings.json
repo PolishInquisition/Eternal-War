@@ -106,6 +106,28 @@
         "requiredTech": "Electricity"
     },
 	{
+		"name": "Corporation",
+		"replaces": "Stock Exchange",
+		"uniqueTo": "Lazurian Republic",
+		"gold": 3,
+		"percentStatBonus": {"gold": 33},{"production": 5},
+		"specialistSlots": {"Merchant": 3},
+		"hurryCostModifier": 15,
+		"requiredBuilding": "Bank",
+		"requiredTech": "Electricity"
+	},
+	{
+		"name": "Great Valley",
+		"replaces": "Research Lab",
+		"uniqueTo": "Lazurian Republic",
+		"science": 4,
+		"percentStatBonus": {"science": 60},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Public School",
+		"maintenance": 4,
+		"requiredTech": "Plastics"
+	},
+	{
 		"name": "Blast Furnace",
 		"cost": 150,
 		"requiredResource": "Charcoal",
