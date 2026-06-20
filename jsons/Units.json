@@ -93,6 +93,7 @@
 	{
 		"name": "Lumière",
 		"unitType": "Mounted",
+		"replaces": "Cavalry",
 		"uniqueTo": "Lazurian Republic",
 		"movement": 3,
 		"strength": 44,
@@ -107,6 +108,7 @@
 	{
 		"name": "Rhinocéros",
 		"unitType": "Armored",
+		"replaces": "Modern Armor",
 		"movement": 5,
 		"strength": 110,
 		"cost": 435,
