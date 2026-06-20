@@ -108,7 +108,7 @@
 	{
 		"name": "Corporation",
 		"replaces": "Stock Exchange",
-		"uniqueTo": "Lazurian Republic",
+		"uniqueTo": "Lazuria Republic",
 		"gold": 3,
 		"percentStatBonus": {"gold": 33},
 		"specialistSlots": {"Merchant": 3},
@@ -119,7 +119,7 @@
 	{
 		"name": "Great Valley",
 		"replaces": "Research Lab",
-		"uniqueTo": "Lazurian Republic",
+		"uniqueTo": "Lazuria Republic",
 		"science": 4,
 		"percentStatBonus": {"science": 60},
 		"specialistSlots": {"Scientist": 2},
