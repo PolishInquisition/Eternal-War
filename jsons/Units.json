@@ -91,6 +91,33 @@
 		"attackSound": "jetgun"
 	},
 	{
+		"name": "Lumière",
+		"unitType": "Mounted",
+		"uniqueTo": "Lazurian Republic",
+		"movement": 3,
+		"strength": 44,
+		"cost": 240,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Sulfur]"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Rhinocéros",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 110,
+		"cost": 435,
+		"requiredTech": "Lasers",
+		"requiredResource": "Aluminum Alloy",
+		"upgradesTo": "Giant Death Robot",
+		"promotions" : ["Blitz"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
 		"name": "Dust Bringer",
 		"unitType": "Mounted",
 		"replaces": "Horseman",
