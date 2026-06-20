@@ -110,7 +110,7 @@
 		"replaces": "Stock Exchange",
 		"uniqueTo": "Lazurian Republic",
 		"gold": 3,
-		"percentStatBonus": {"gold": 33},{"production": 5},
+		"percentStatBonus": {"gold": 33},
 		"specialistSlots": {"Merchant": 3},
 		"hurryCostModifier": 15,
 		"requiredBuilding": "Bank",
