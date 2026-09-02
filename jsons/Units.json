@@ -140,6 +140,21 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Salian",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"uniqueTo": "Salia Merewia",
+		"movement": 4,
+		"strength": 25,
+		"cost": 135,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","May enter foreign tiles without open borders","Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Warrior Worker",
 		"replaces": "Worker",
 		"unitType": "Scout",

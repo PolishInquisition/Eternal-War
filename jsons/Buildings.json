@@ -110,11 +110,31 @@
 		"replaces": "Stock Exchange",
 		"uniqueTo": "Lazuria Republic",
 		"gold": 3,
-		"percentStatBonus": {"gold": 33},
-		"specialistSlots": {"Merchant": 3},
+		"percentStatBonus": {"gold": 44},
+		"specialistSlots": {"Merchant": 4},
 		"hurryCostModifier": 15,
 		"requiredBuilding": "Bank",
 		"requiredTech": "Electricity"
+	},
+	{
+		"name": "Merewian Opera",
+		"uniqueTo": "Salia Merewia",
+		"replaces": "Opera House",
+		"culture": 5,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured","[+15]% Great Person generation [in this city]",]
+	},
+	{
+		"name": "Imperial Court",
+		"uniqueTo": "Salia Merewia",
+		"maintenance": 1,
+		"uniques": ["[+5]% [Gold] [in this city]","[+5]% [Culture] [in this city]","Automatically built in all cities where it is buildable","Destroyed when the city is captured"],
+		"hurryCostModifier": 35,
+		"requiredTech": "Engineering"
 	},
 	{
 		"name": "Great Valley",

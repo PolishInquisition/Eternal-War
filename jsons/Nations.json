@@ -84,7 +84,7 @@
 	},
 	{
 		"name": "Lazuria Republic",
-		"leaderName": "Morcel de Liverio",
+		"leaderName": "Mercel de Liverio",
 		"adjective": ["Lazur"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
@@ -108,7 +108,7 @@
 		"hateYes": ["This time i agree"],
 		
 		"afterPeace": "Peac at last",
-		"tradeRequest": "Our capotalist have open mind in trade",
+		"tradeRequest": "Our capitalists have open mind in trade",
 
 		"outerColor": [255,255,255],
 		"innerColor": [66,172,205],
@@ -120,7 +120,45 @@
 
 		"cities": ["Ories","Leios","Arties","Nouve Visa","Fose","Posalia","Nisetia","Judia","Tilon",
 					"Haden","Salia Aquilia"],
-		"spyNames": ["Losie","Petie","Jues","Morcel","Mocron","Vilion","Baquet"]
+		"spyNames": ["Losie","Petie","Jues","Mercel","Mocron","Vilion","Baquet"]
+	},
+	{
+		"name": "Salia Merewia",
+		"leaderName": "Felip de Merve",
+		"adjective": ["Salia"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Bonjur",
+		"startIntroPart2": "Welcome in Salia Merewia, an old empire and the Greates Empire of all time, but withe te Lazurian Revolution Empire fallen into internal problems lead to Dark Times, but with help and good leaders Merewia rebuild and live to this days.",
+		"declaringWar": "Your dictatorship end now",
+		"attacked": "Nah i'd win",
+		"defeated": "Rest in Peace Merewia",
+		"introduction": "Merewia welcome you.",
+		
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["Yes but actually no"],
+		"neutralYes": ["No but actually yes"],
+
+		"hateHello": "What you want, you traitor",
+		"hateLetsHearIt": ["Talk but fast, i don't wanna hear you"],
+		"hateNo": ["Pissoff"],
+		"hateYes": ["This time i agree"],
+		
+		"afterPeace": "Peac at last",
+		"tradeRequest": "Our leaders are welcome you",
+
+		"outerColor": [161,42,42],
+		"innerColor": [64,136,141],
+		"uniqueName": "Divine Rule",
+		"uniques": [
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
+		],
+
+		"cities": ["Ruone","Peso","Tezos","Visa","Epios","Mecrasia","Iglesia","Gazios","Borges",
+					"Zeius","Magna Ortia","Vicerio"],
+		"spyNames": ["Losie","Petie","Jues","Mercel","Mocron","Vilion","Baquet"]
 	},
 	//Franek
 	{
@@ -279,51 +317,6 @@
 	},
 	//Adam
 	//System Adas
-	{
-		"name": "Adam Nation",
-		"leaderName": "Adam Szewc",
-		"adjective": ["Adam"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "Hej",
-		"startIntroPart2": "Jestem Ad4m",
-		
-		"declaringWar": "Your Nation stay on my way to Victory.",
-		"attacked": "I only want to go fishing.",
-		"defeated": "It's not over yet",
-		"introduction": "Nordhelm welcome you and see you an potenital treade partner",
-		
-		"neutralHello": "Hello, we come in peace",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["Yes but actually no"],
-		"neutralYes": ["No but actually yes"],
-
-		"hateHello": "I hope i will never seen you again",
-		"hateLetsHearIt": ["I hope you will end this quickly"],
-		"hateNo": ["What did you expect?"],
-		"hateYes": ["Well... i still hate you"],
-		
-		"afterPeace": "Live",
-		"tradeRequest": "What did you want, we have not too much",
-
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 255, 0],
-		"uniqueName": "Adam's Purse",
-		"uniques": [
-			"[+1 Happiness] from every [Gold Ore] <starting from the [Ancient era]>",
-			"[+1 Happiness] from every [Gold Ore] <starting from the [Classical era]>",
-			"[-20]% City-State Influence degradation"
-			//"Will not be chosen for new games"
-		],
-
-		"cities": [
-			"Szubin", "Szubin Wieś", "Szubin Wieś Wieś", "Szubin Wieś Wieś Wieś",
-			"Szubin Wieś Wieś Wieś Wieś", "Szubin Wieś Wieś Wieś Wieś Wieś", "Szubin Wieś Wieś Wieś Wieś Wieś Wieś",
-			"Szubin Wieś Wieś Wieś Wieś Wieś Wieś Wieś"
-		],
-		"spyNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
-	},
 	{
 		"name": "Szubin Wieś",
 		"adjective": ["Szubin Wieś"],
