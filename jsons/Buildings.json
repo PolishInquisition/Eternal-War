@@ -119,6 +119,7 @@
 	{
 		"name": "Merewian Opera",
 		"uniqueTo": "Salia Merewia",
+		"replaces": "Opera House",
 		"culture": 5,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
