@@ -144,14 +144,14 @@
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"uniqueTo": "Salia Merewia",
-		"movement": 4,
+		"movement": 5,
 		"strength": 25,
 		"cost": 135,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","May enter foreign tiles without open borders","Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","May enter foreign tiles without open borders","Can Spread Religion <for [5] movement>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
