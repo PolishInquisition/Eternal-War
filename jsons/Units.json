@@ -143,6 +143,7 @@
 		"name": "Salian",
 		"replaces": "Knight",
 		"unitType": "Mounted",
+		"uniqueTo": "Salia Merewia",
 		"movement": 4,
 		"strength": 25,
 		"cost": 135,
