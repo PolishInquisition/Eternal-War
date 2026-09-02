@@ -110,8 +110,8 @@
 		"replaces": "Stock Exchange",
 		"uniqueTo": "Lazuria Republic",
 		"gold": 3,
-		"percentStatBonus": {"gold": 33},
-		"specialistSlots": {"Merchant": 3},
+		"percentStatBonus": {"gold": 44},
+		"specialistSlots": {"Merchant": 4},
 		"hurryCostModifier": 15,
 		"requiredBuilding": "Bank",
 		"requiredTech": "Electricity"
