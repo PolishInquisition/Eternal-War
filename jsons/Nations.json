@@ -149,8 +149,8 @@
 		"afterPeace": "Peac at last",
 		"tradeRequest": "Our leaders are welcome you",
 
-		"outerColor": [63,17,15],
-		"innerColor": [17,34,31],
+		"outerColor": [175,175,52],
+		"innerColor": [64,136,141],
 		"uniqueName": "Divine Rule",
 		"uniques": [
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
