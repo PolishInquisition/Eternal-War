@@ -1,5 +1,36 @@
 [
 	{
+		"name": "Kapıkulu",
+		"unitType": "Mounted",
+		"uniqueTo": "Kasal",
+		"replaces": "Knight",
+		"movement": 5,
+		"strength": 20,
+		"cost": 180,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"promotions": ["[March] ability","[Charge] ability"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Azab",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Kasal",
+		"replaces": "Rifleman",
+		"movement": 2,
+		"strength": 20,
+		"cost": 190,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"uniques": ["[+33]% Strength <vs [Wounded] units>"],
+		"promotions": ["[Medic] ability"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Dreadnought",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Nordhelm",
