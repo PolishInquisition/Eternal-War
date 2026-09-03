@@ -31,6 +31,6 @@
         "uniqueTo": "Salia Merewia",
 		"turnsToBuild": 2,
 		"techRequired": "Mining",
-		"uniques": ["Can be built outside your borders","Pillaging this improvement yields approximately [+20 Gold]","Cannot be built on [Water] tiles"]
+		"uniques": ["Can only be built to improve a resource","Can be built outside your borders","Pillaging this improvement yields approximately [+20 Gold]","Cannot be built on [Water] tiles"]
 	}
 ]
