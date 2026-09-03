@@ -318,6 +318,42 @@
 	//Adam
 	//System Adas
 	{
+		"name": "Kasal",
+		"leaderName": "Padyszach Bej",
+		"adjective": ["Kasal"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Merhaba",
+		"startIntroPart2": "",
+		
+		"declaringWar": "You broke peace and we come to bring him back.",
+		"attacked": "We come in peace.",
+		"defeated": "War over but our nation never be the same again",
+		"introduction": "Hello, our mission is peace, science and industry",
+		
+		"neutralHello": "Merhaba, we come in peace",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["Yes but actually no"],
+		"neutralYes": ["No but actually yes"],
+
+		"hateHello": "I hope i will never seen you again",
+		"hateLetsHearIt": ["I hope you will end this quickly"],
+		"hateNo": ["What did you expect?"],
+		"hateYes": ["Well... i still hate you"],
+		
+		"afterPeace": "Time is on our side",
+		"tradeRequest": "What did you want, We have science and resorces",
+
+		"outerColor": [190,0,0],
+		"innerColor": [240,240,240 ],
+		"uniqueName": "River Trade",
+		"uniques": ["[-33]% Culture cost of acquiring tiles [in all cities]","[+10]% Strength <for Mounted units> <during a Golden Age>","May choose [1] additional belief(s) of any type when [founding] a religion"],
+
+		"cities": ["Koşmakowo","Hasatyn","Güç ve majesteleri","Alanlaria"],
+		"spyNames": ["Ataturk","Mohemed"]
+	},
+	{
 		"name": "Szubin Wieś",
 		"adjective": ["Szubin Wieś"],
 		"cityStateType": "Mercantile",
