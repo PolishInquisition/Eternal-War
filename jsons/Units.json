@@ -165,7 +165,6 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"uniques": ["May enter foreign tiles without open borders","Never appears as a Barbarian unit","Can build [Colonial Camp] improvements on tiles <after which this unit is consumed>"],
-		"promotions": [],
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
