@@ -11,7 +11,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"promotions": ["[March] ability","[Charge] ability"],
+		"promotions": ["March","Charge"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
@@ -27,7 +27,7 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"uniques": ["[+33]% Strength <vs [Wounded] units>"],
-		"promotions": ["[Medic] ability"],
+		"promotions": ["Medic"],
 		"attackSound": "shot"
 	},
 	{
