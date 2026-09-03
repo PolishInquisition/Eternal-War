@@ -13,7 +13,7 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Secular school",
+		"name": "Secular School",
 		"replaces": "University",
 		"uniqueTo": "Kasal",
 		"maintenance": 1,
