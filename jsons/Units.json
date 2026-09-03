@@ -162,6 +162,7 @@
 		"movement": 2,
 		"strength": 29,
 		"cost": 170,
+		"requiredResource": "Sulfur",
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"uniques": ["Never appears as a Barbarian unit"],
