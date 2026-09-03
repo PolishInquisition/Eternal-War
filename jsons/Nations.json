@@ -84,7 +84,7 @@
 	},
 	{
 		"name": "Lazuria Republic",
-		"leaderName": "Mercel de Liverio",
+		"leaderName": "Mercel de'Liverio",
 		"adjective": ["Lazur"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
@@ -118,19 +118,19 @@
 			"[+2 Science] from every specialist [in all cities]",
 		],
 
-		"cities": ["Ories","Leios","Arties","Nouve Visa","Fose","Posalia","Nisetia","Judia","Tilon",
+		"cities": ["Lusia","Leios","Arties","Nouve Visa","Fose","Posalia","Nisetia","Judia","Tilon",
 					"Haden","Salia Aquilia"],
 		"spyNames": ["Losie","Petie","Jues","Mercel","Mocron","Vilion","Baquet"]
 	},
 	{
 		"name": "Salia Merewia",
-		"leaderName": "Felip de Merve",
+		"leaderName": "Felip de'Merve",
 		"adjective": ["Salia"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Bonjur",
-		"startIntroPart2": "Welcome in Salia Merewia, an old empire and the Greates Empire of all time, but withe te Lazurian Revolution Empire fallen into internal problems lead to Dark Times, but with help and good leaders Merewia rebuild and live to this days.",
+		"startIntroPart2": "Welcome in Salia Merewia, an old empire of Orios and the Greates Empire of all time, but with the Lazurian Revolution Empire fallen into internal problems lead to Dark Times, but with help and good leaders Merewia rebuild and live to this days.",
 		"declaringWar": "Your dictatorship end now",
 		"attacked": "Nah i'd win",
 		"defeated": "Rest in Peace Merewia",
@@ -156,8 +156,8 @@
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
 		],
 
-		"cities": ["Ruone","Peso","Tezos","Visa","Epios","Mecrasia","Iglesia","Gazios","Borges",
-					"Zeius","Magna Ortia","Vicerio"],
+		"cities": ["Roies","Tusio","Esio","Visa","Osdario","Mecrasia","Iglesia","Democis","Borges",
+					"Zeius","Magna Ortia","Vicerio","Rosque","Nuselion","Aquilia","Omegia","Barsia","Chalesia"],
 		"spyNames": ["Losie","Petie","Jues","Mercel","Mocron","Vilion","Baquet"]
 	},
 	//Franek
