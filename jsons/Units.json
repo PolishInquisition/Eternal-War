@@ -164,7 +164,7 @@
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"uniques": ["May enter foreign tiles without open borders","Never appears as a Barbarian unit","Can build [Colonial Camp] improvements on tiles <after which this unit is consumed>"],
+		"uniques": ["May enter foreign tiles without open borders","Can build [Land] improvements on tiles","Never appears as a Barbarian unit","Can build [Colonial Camp] improvements on tiles <after which this unit is consumed>"],
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
