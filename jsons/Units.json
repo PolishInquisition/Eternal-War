@@ -155,6 +155,20 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Pionnier",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Salia Merewia",
+		"movement": 3,
+		"strength": 21,
+		"cost": 290,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"uniques": ["May enter foreign tiles without open borders","Can build [Land] improvements on tiles","Never appears as a Barbarian unit","Requires at least [2] population"],
+		"promotions": ["Ignore terrain cost"],
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Warrior Worker",
 		"replaces": "Worker",
 		"unitType": "Scout",
