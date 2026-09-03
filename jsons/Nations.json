@@ -348,7 +348,7 @@
 		"outerColor": [128,16,16],
 		"innerColor": [40,115,201 ],
 		"uniqueName": "River Trade",
-		"uniques": ["[-15]% Culture cost of natural border growth [in all cities]","[+10]% Strength <for Mounted units>","May choose [1] additional belief(s) of any type when [founding] a religion"],
+		"uniques": ["[-15]% Culture cost of natural border growth [in all cities]","[+10]% Strength <vs [Mounted] units>","May choose [1] additional belief(s) of any type when [founding] a religion"],
 
 		"cities": ["Koşmakowo","Hasatyn","Güç ve majesteleri","Alanlaria"],
 		"spyNames": ["Ataturk","Mohemed"]
