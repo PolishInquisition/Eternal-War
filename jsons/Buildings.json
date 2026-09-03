@@ -199,7 +199,7 @@
 	},
 	{
         "name": "Sheriff's Office",
-		"uniqueTo": "Adam Nation",
+		"uniqueTo": "Szubin Wieś",
 		"replaces": "Constabulary",
 		"gold": 2,
         "cost": 160,

@@ -219,7 +219,7 @@
 	{
 		"name": "Cowboy",
 		"replaces": "Rifleman",
-		"uniqueTo": "Adam Nation",
+		"uniqueTo": "Szubin Wieś",
 		"unitType": "Gunpowder",
 		"movement": 4,
 		"strength": 32,
@@ -237,7 +237,7 @@
 		"name": "Miner",
 		"replaces": "Spearman",
 		"unitType": "Civilian",
-		"uniqueTo": "Adam Nation",
+		"uniqueTo": "Szubin Wieś",
 		"movement": 2,
 		"strength": 11,
 		"cost": 56,
