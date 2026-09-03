@@ -155,15 +155,16 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Pionnier",
+		"name": "Pion",
+		"replaces": "Musketman",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Salia Merewia",
-		"movement": 3,
-		"strength": 21,
-		"cost": 290,
+		"movement": 2,
+		"strength": 29,
+		"cost": 170,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"uniques": ["May enter foreign tiles without open borders","Can build [Land] improvements on tiles","Never appears as a Barbarian unit","Requires at least [2] population"],
+		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
