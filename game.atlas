@@ -1,404 +1,446 @@
 
 game.png
-size: 2048, 512
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Bergman Tunnels
   rotate: false
-  xy: 1266, 376
+  xy: 900, 860
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Blast Furnace
   rotate: false
-  xy: 4, 220
+  xy: 4, 704
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/Chemical Workshop
   rotate: false
-  xy: 1374, 376
+  xy: 1008, 860
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Coastal battery
   rotate: false
-  xy: 1482, 376
+  xy: 1224, 860
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Corporation
   rotate: false
-  xy: 1590, 376
+  xy: 1332, 860
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Great Valley
   rotate: false
-  xy: 1806, 376
+  xy: 1656, 860
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Guàn Gài Dujiangyan
   rotate: false
-  xy: 1914, 376
+  xy: 1764, 860
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Imperial Court
   rotate: false
-  xy: 1158, 268
+  xy: 112, 22
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Industrial Complex
   rotate: false
-  xy: 1266, 268
+  xy: 684, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Merewian Opera
   rotate: false
-  xy: 320, 118
+  xy: 1764, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Modern Foundry
   rotate: false
-  xy: 212, 4
+  xy: 1872, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Norhavn
   rotate: false
-  xy: 428, 10
+  xy: 484, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/River Arena
   rotate: false
-  xy: 752, 60
+  xy: 478, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Rode Office
   rotate: false
-  xy: 968, 160
+  xy: 320, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Rådhus
   rotate: false
-  xy: 1076, 160
+  xy: 428, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Secular School
   rotate: false
-  xy: 1400, 160
+  xy: 220, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Stable of Tengri
   rotate: false
-  xy: 1616, 160
+  xy: 592, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Stallburg Steel
   rotate: false
-  xy: 1832, 160
+  xy: 808, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Steampowered Blast Furnace
   rotate: false
-  xy: 268, 226
+  xy: 4, 446
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Stolland Nuclear Weapons
   rotate: false
-  xy: 1940, 160
+  xy: 916, 644
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Cháo
+  rotate: false
+  xy: 1116, 860
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Kampir Tepe
   rotate: false
-  xy: 1482, 268
+  xy: 1008, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Kasal
   rotate: false
-  xy: 1590, 268
+  xy: 1224, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Kushan Empire
   rotate: false
-  xy: 1698, 268
+  xy: 1332, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Lazuria Republic
   rotate: false
-  xy: 1806, 268
+  xy: 1440, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Nordhelm
   rotate: false
-  xy: 428, 118
+  xy: 376, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Republic of Stolland
   rotate: false
-  xy: 644, 60
+  xy: 262, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Salia Merewia
   rotate: false
-  xy: 1184, 160
+  xy: 536, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Union of Presov
   rotate: false
-  xy: 1076, 52
+  xy: 1132, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Verze Union
   rotate: false
-  xy: 1292, 52
+  xy: 1348, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zhao
   rotate: false
-  xy: 1832, 52
+  xy: 694, 536
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Adam Religia
   rotate: false
-  xy: 942, 376
+  xy: 4, 130
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Astérso
   rotate: false
-  xy: 1158, 376
+  xy: 4, 22
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Hiçlis
   rotate: false
-  xy: 942, 268
+  xy: 1872, 860
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Juladea
   rotate: false
-  xy: 1374, 268
+  xy: 792, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Stalburg Underground
   rotate: false
-  xy: 1724, 160
+  xy: 700, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Väckesso
   rotate: false
-  xy: 1400, 52
+  xy: 1456, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Waleo
   rotate: false
-  xy: 1508, 52
+  xy: 1564, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Advanced Steel
   rotate: false
-  xy: 4, 12
+  xy: 268, 760
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ResourceIcons/Aluminum Alloy
   rotate: false
-  xy: 1050, 376
+  xy: 684, 860
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Charcoal
   rotate: false
-  xy: 526, 276
+  xy: 4, 238
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ResourceIcons/Primitive Steel
   rotate: false
-  xy: 644, 168
+  xy: 478, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Sulfur
   rotate: false
-  xy: 734, 276
+  xy: 476, 760
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Azab
+  rotate: false
+  xy: 792, 860
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Dreadnought
   rotate: false
-  xy: 1698, 376
+  xy: 1440, 860
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Field Enginer
+  rotate: false
+  xy: 1548, 860
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Howitzer
   rotate: false
-  xy: 1050, 268
+  xy: 112, 130
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jūn Tuấn
+  rotate: false
+  xy: 900, 752
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kapıkulu
+  rotate: false
+  xy: 1116, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lumière
   rotate: false
-  xy: 1914, 268
+  xy: 1548, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Man o'War
   rotate: false
-  xy: 212, 112
+  xy: 1656, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mörkö
   rotate: false
-  xy: 320, 10
+  xy: 268, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orkaan
   rotate: false
-  xy: 536, 168
+  xy: 262, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pion
   rotate: false
-  xy: 536, 60
+  xy: 370, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rhinocéros
   rotate: false
-  xy: 752, 168
+  xy: 370, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/River Ship
   rotate: false
-  xy: 860, 160
+  xy: 212, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Salian
   rotate: false
-  xy: 1292, 160
+  xy: 220, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ski Infantry
   rotate: false
-  xy: 1508, 160
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sturmtruppen
   rotate: false
-  xy: 968, 52
+  xy: 1024, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Valk
   rotate: false
-  xy: 1184, 52
+  xy: 1240, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warrior Worker
   rotate: false
-  xy: 1616, 52
+  xy: 1672, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Winged Hussar
   rotate: false
-  xy: 1724, 52
+  xy: 1780, 644
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Worker
+  rotate: false
+  xy: 586, 536
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
