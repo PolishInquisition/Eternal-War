@@ -87,7 +87,7 @@
 		"leaderName": "Mercel de'Liverio",
 		"adjective": ["Lazur"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Bonjur",
 		"startIntroPart2": "Welcome in Lazurian Republic, this country orginaly was a part of Merewia but when Liberal idea come to Ories people start a revolution that liberate all of the east part of Merewian Empire. Now Lazuria is Home of Freedom and is the most liberal country in world.",
@@ -358,7 +358,7 @@
 		"leaderName": "Han Zhao",
 		"adjective": ["Zhao"],
 		"startBias": ["Desert"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Huānyíng",
 		"startIntroPart2": "Zhao is one of the oldest civilization that was created after the Age of Ashes.",
@@ -384,7 +384,7 @@
 		"outerColor": [229,204,42],
 		"innerColor": [31,31,29 ],
 		"uniqueName": "Architectural tradition",
-		"uniques": ["[+20]% Production when constructing [China Wall] wonder [in all cities]"],
+		"uniques": ["[+10]% Production when constructing [All] wonders [in all cities]"],
 
 		"cities": ["Handan","Nîbùbìsî","Biān niánshî","Lèihâi"],
 		"spyNames": ["Piongjang","Kim"]
