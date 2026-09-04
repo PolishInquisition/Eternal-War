@@ -3,7 +3,7 @@
 		"name": "Jūn Tuấn",
 		"unitType": "Sword",
 		"uniqueTo": "Zhao",
-		"replaces": "Pikeman",
+		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 9,
 		"cost": 46,
