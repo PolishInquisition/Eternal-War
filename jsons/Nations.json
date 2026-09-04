@@ -368,7 +368,7 @@
 		"defeated": "War over but our nation never be the same again",
 		"introduction": "Hello, our mission is peace, science and industry",
 		
-		"neutralHello": "Merhaba, we come in peace",
+		"neutralHello": "Huānyíng, we come in peace",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["Yes but actually no"],
 		"neutralYes": ["No but actually yes"],
@@ -424,5 +424,17 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 0, 0],
 		"cities": ["Starogard Gdański"]
+	}
+	{
+		"name": "Anwert",
+		"adjective": ["Anwert"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "So it is what it is.",
+		"attacked": "War is not and option.",
+		"defeated": "Anwert fall once again...",
+		"outerColor": [93, 134, 116],
+		"innerColor": [94, 71, 94],
+		"cities": ["Anwert"]
 	}
 ]
