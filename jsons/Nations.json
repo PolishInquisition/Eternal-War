@@ -347,11 +347,47 @@
 
 		"outerColor": [128,16,16],
 		"innerColor": [40,115,201 ],
-		"uniqueName": "River Trade",
+		"uniqueName": "Tundra Hords",
 		"uniques": ["[-15]% Culture cost of natural border growth [in all cities]","[+10]% Strength <vs [Mounted] units>","May choose [1] additional belief(s) of any type when [founding] a religion"],
 
 		"cities": ["Koşmakowo","Hasatyn","Güç ve majesteleri","Alanlaria"],
 		"spyNames": ["Ataturk","Mohemed"]
+	},
+	{
+		"name": "Zhao",
+		"leaderName": "Han Zhao",
+		"adjective": ["Zhao"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Huānyíng",
+		"startIntroPart2": "Zhao is one of the oldest civilization that was created after the Age of Ashes.",
+		
+		"declaringWar": "You broke peace and we come to bring it back.",
+		"attacked": "We come in peace.",
+		"defeated": "War over but our nation never be the same again",
+		"introduction": "Hello, our mission is peace, science and industry",
+		
+		"neutralHello": "Merhaba, we come in peace",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["Yes but actually no"],
+		"neutralYes": ["No but actually yes"],
+
+		"hateHello": "I hope i will never seen you again",
+		"hateLetsHearIt": ["I hope you will end this quickly"],
+		"hateNo": ["What did you expect?"],
+		"hateYes": ["Well... i still hate you"],
+		
+		"afterPeace": "Time is on our side",
+		"tradeRequest": "What did you want, We have science and resorces",
+
+		"outerColor": [229,204,42],
+		"innerColor": [31,31,29 ],
+		"uniqueName": "Architectural tradition",
+		"uniques": ["[+20]% Production when constructing [China Wall] wonder [in all cities]"],
+
+		"cities": ["Handan","Nîbùbìsî","Biān niánshî","Lèihâi"],
+		"spyNames": ["Piongjang","Kim"]
 	},
 	{
 		"name": "Szubin Wieś",
