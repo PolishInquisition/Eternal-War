@@ -25,4 +25,16 @@
             "Pillaging this improvement yields approximately [+10 Gold]"
         ]
 	},
+	 {
+		"name": "Cháo",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Forest","Jungle"],
+        "replaces": "Fort",
+        "uniqueTo": "Zhao",
+        "techRequired": "Balistic",
+		"uniques": [
+            "Gives a defensive bonus of [65]%",
+            "Adjacent enemy units ending their turn take [9] damage",
+            "Removes removable features when built",
+        ]
+    },
 ]
