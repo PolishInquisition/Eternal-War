@@ -1,5 +1,21 @@
 [
 	{
+		"name": "Field Enginer",
+		"uniqueTo": "Zhao",
+		"unitType": "Civilian",
+		"cost": 370,
+		"movement": 2,
+		"strength": 5,
+		"requiredTech": "Mathematics",
+		"uniques": [
+            "Can instantly construct a [Cháo] improvement <by consuming this unit>",
+			"Can be earned through combat <for [Land] units>",
+            "Is part of Great Person group [General]",
+            "[This Unit] gets a name from the [General] group",
+			"Great Person - [War]", "Uncapturable"],
+		"movement": 2
+	},
+	{
 		"name": "Jūn Tuấn",
 		"unitType": "Sword",
 		"uniqueTo": "Zhao",
