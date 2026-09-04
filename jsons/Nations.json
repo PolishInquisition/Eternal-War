@@ -434,8 +434,8 @@
 		"declaringWar": "So it is what it is.",
 		"attacked": "War is not and option.",
 		"defeated": "Anwert fall once again...",
-		"outerColor": [93, 134, 116],
-		"innerColor": [94, 71, 94],
+		"outerColor": [233, 181, 76],
+		"innerColor": [94, 167, 124],
 		"cities": ["Anwert"]
 	}
 ]
