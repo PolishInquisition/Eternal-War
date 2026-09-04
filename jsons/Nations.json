@@ -368,7 +368,7 @@
 	{
 		"name": "Damasławek",
 		"adjective": ["Damasławek"],
-		"cityStateType": "Religious", // Changed from Cultured to Religious in GK
+		"cityStateType": "Religious",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -376,5 +376,17 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
 		"cities": ["Damasławek"]
+	},
+	{
+		"name": "Starogard Gdański",
+		"adjective": ["Starogard"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 0, 0],
+		"cities": ["Starogard Gdański"]
 	}
 ]
