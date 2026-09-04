@@ -32,8 +32,8 @@
         "uniqueTo": "Zhao",
         "techRequired": "Mathematics",
 		"uniques": [
-            "Gives a defensive bonus of [65]%",
-            "Adjacent enemy units ending their turn take [9] damage",
+            "Gives a defensive bonus of [60]%",
+            "Adjacent enemy units ending their turn take [5] damage",
             "Removes removable features when built",
         ]
     },
