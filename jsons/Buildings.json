@@ -32,7 +32,7 @@
 		]
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"production": 5},
+		"percentStatBonus": {"production": 8},
 		"requiredTech": "Metal Casting"
 	},
 	{
