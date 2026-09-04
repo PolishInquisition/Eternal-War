@@ -115,7 +115,7 @@
 		"uniqueName": "Nation of Freedom",
 		"uniques": [
 			"[Great Scientist] is earned [50]% faster",
-			"[+2 Science] from every specialist [in all cities]",
+			"[+2 Science] from every specialist [in all cities]"
 		],
 
 		"cities": ["Lusia","Leios","Arties","Nouve Visa","Fose","Posalia","Nisetia","Judia","Tilon",
@@ -153,7 +153,7 @@
 		"innerColor": [64,136,141],
 		"uniqueName": "Divine Rule",
 		"uniques": [
-			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"
 		],
 
 		"cities": ["Roies","Tusio","Esio","Visa","Osdario","Mecrasia","Iglesia","Democis","Borges",
@@ -299,9 +299,9 @@
 		"neutralNo": ["Yes but actually no"],
 		"neutralYes": ["No but actually yes"],
 
-		"hateHello": "I hope i will never seen you again",
+		"hateHello": "Spierdalaj",
 		"hateLetsHearIt": ["I hope you will end this quickly"],
-		"hateNo": ["What did you expect?"],
+		"hateNo": ["Wypierdalaj"],
 		"hateYes": ["Well... i still hate you"],
 		
 		"afterPeace": "Time is on our side",
@@ -382,9 +382,9 @@
 		"adjective": ["Starogard"],
 		"cityStateType": "Militaristic",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "I guess you weren't here for the sprouts after all...",
+		"declaringWar": "Czy wiesz że średni mieszkaniec starogardu gdańskiego zarabia aż 200zł miesięcznie?",
+		"attacked": "To wystarcza na wynajem namioty pod mostem, zajechanego golfa 4, zegarek z chińczyka czy częste podróże do monopolowego autobusem komunikacji miejskiej.",
+		"defeated": "Na co czekasz? Przeprowadź się do starogardu gdańskiego i zacznij żyć w luksusie.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 0, 0],
 		"cities": ["Starogard Gdański"]
