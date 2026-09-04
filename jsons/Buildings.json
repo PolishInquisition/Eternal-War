@@ -12,13 +12,13 @@
 		"name": "Chemical Workshop",
 		"uniqueTo": "Zhao",
 		"cost": 320,
-		"requiredResource": "Charcole",
+		"requiredResource": "Charcoal",
 		"requiredTech": "Education",
 		"maintenance": 3,
 		"production": 2,
 		"uniques": [
-			"Consumes [2] [Charcole]",
-			"Provides [1] [Sulfure]"
+			"Consumes [2] [Charcoal]",
+			"Provides [1] [Sulfur]"
 		]
 	}
 	{
