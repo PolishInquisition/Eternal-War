@@ -6,7 +6,7 @@
 		"cost": 370,
 		"movement": 2,
 		"strength": 5,
-		"requiredTech": "Balistic",
+		"requiredTech": "Mathematics",
 		"uniques": [
             "Can instantly construct a [Cháo] improvement <by consuming this unit>",
 			"Can be earned through combat <for [Land] units>",
