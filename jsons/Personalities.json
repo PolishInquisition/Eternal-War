@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Rimuru Tempest",
+      "culture": 9,
+      "faith": 4,
+      "food": 6,
+      "gold": 5,
+      "happiness": 6,
+      "production": 5,
+      "science": 7,
+      // Behavour focused personalities
+      "military": 1,
+      "aggressive": 1,
+      "declareWar": 1,
+      "commerce": 7,
+      "diplomacy": 10,
+      "loyal": 9,
+      "expansion": 7,
+      "denounceWillingness": 2,
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 6,
+          "Honor": 1,
+          "Commerce": 7,
+          "Patronage": 6,
+          "Piety": 4,
+          "Rationalism": 6,
+          "Freedom": 6,
+          "Autocracy": 3,
+          "Order": 6
+      },
+      "civilopediaText": [
+          {"text": "Rimuru is an eccentric and childish person by nature but this shouldn't be mistaken for immaturity and naivety."}
+      ]
+  }
+]

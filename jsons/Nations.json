@@ -202,44 +202,45 @@
 		"spyNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
 	},
 	{
-		"name": "Pacipith Maac",
-		"leaderName": "Jɔɔn pööl",
-		"adjective": [""],
-		"startBias": ["Water resource", "Coast"],
+		"name": "Jura-Tempest Federation",
+		"leaderName": "Rimuru  Tempest",
+		"adjective": ["Land of Monsters"],
+		"startBias": ["Forest"],
+		"personality": "Rimuru Tempest",
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "Nerä ji",
-		"startIntroPart2": "ɛuŋ tuɔk ɔ",
+		"startIntroPart1": "Hi",
+		"startIntroPart2": "I'm Rimuru, nice to meet ya",
+		"declaringWar": "You made us do it",
+		"attacked": "Well, if you choose death",
+		"defeated": "Rest in Peace",
+		"introduction": "Hi, I'm Rimuru",
 		
-		"declaringWar": "Mal te kɛ yiɛ",
-		"attacked": "Mal te kɛ yiɛ",
-		"defeated": "Mal te kɛ yiɛ",
-		"introduction": "Mal te kɛ yiɛ",
-		
-		"neutralHello": "Nerä ji, Mal te kɛ yiɛ",
-		"neutralLetsHearIt": ["Mal te kɛ yiɛ"],
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": ["What do you have to say?"],
 		"neutralNo": ["Yes but actually no"],
 		"neutralYes": ["No but actually yes"],
 
-		"hateHello": "Mal te kɛ yiɛ",
-		"hateLetsHearIt": ["Mal te kɛ yiɛ"],
-		"hateNo": ["Mal te kɛ yiɛ"],
-		"hateYes": ["Mal te kɛ yiɛ"],
+		"hateHello": "What you want, you traitor",
+		"hateLetsHearIt": ["Talk fast, Diablo has short temper"],
+		"hateNo": ["cya"],
+		"hateYes": ["Ugh, fine"],
 		
-		"afterPeace": "kɛ ɣöö /ca kɔn bi röm",
-		"tradeRequest": "What did you want, we have something",
+		"afterPeace": "Was it worth it?",
+		"tradeRequest": "We wanted to establish a trade route with you",
 
-		"outerColor": [49, 119, 65],
-		"innerColor": [214, 224, 94],
-		"uniqueName": "Pacifist's Skills",
+		"outerColor": [8, 94, 168],
+		"innerColor": [99, 176, 242],
+		"uniqueName": "Slimey Leadership",
 		"uniques": [
-			"Comment [This no work, this useless. Do not use]",
-			"Gain [-999] [Happiness] <hidden from users>",
-			"Will not be chosen for new games"
+			"[+50]% Production when constructing [Culture] buildings [in all cities]",
+			"[+75]% growth [in all cities]",
+			"New spies start with [3] level(s)",
+			"Spies in [in your cities] cities act as though they have [+3] levels for [Counter-intelligence]"
 		],
 
-		"cities": ["Kapisa", "Bactra", "Purushapura", "Khotan", "Mathura", "Varanasi", "Pushkalavati", "Taxila"],
-		"spyNames": ["Thor","Alex","Lauritz","Stig","Aage","Erling","Brian"]
+		"cities": ["Rimuru City"],
+		"spyNames": ["Souei","Touka","Saika","Nansou","Hokusou","Glenda","Girard","Ayn"]
 	},
 	//Janek B.
 	{
