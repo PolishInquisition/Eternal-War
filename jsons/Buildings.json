@@ -21,17 +21,20 @@
 	},
 	{
 		"name": "Chemical Workshop",
+		"replaces": "Workshop",
 		"uniqueTo": "Zhao",
-		"cost": 320,
-		"requiredResource": "Charcoal",
-		"requiredTech": "Education",
-		"maintenance": 3,
+		"maintenance": 2,
 		"production": 2,
+		"requiredResource": "Charcoal",
 		"uniques": [
 			"Consumes [2] [Charcoal]",
 			"Provides [1] [Sulfur]"
 		]
-	}
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 5},
+		"requiredTech": "Metal Casting"
+	},
 	{
 		"name": "Stable of Tengri",
 		"replaces": "Stable",
