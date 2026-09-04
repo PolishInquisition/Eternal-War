@@ -1,5 +1,16 @@
 [
 	{
+		"name": "Anwert International Port",
+		"replaces": "Seaport",
+		"uniqueTo": "Anwert",
+		"hurryCostModifier": 25,
+		"maintenance": 3,
+		"requiredBuilding": "Harbor",
+		"uniques": ["[+3 Production, +3 Gold] from [Water resource] tiles [in this city]","[+25]% [Gold] from Trade Routes",
+			"Must be next to [Coast]"],
+		"requiredTech": "Navigation"
+	},
+	{
 		"name": "Guàn Gài Dujiangyan",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Zhao",
