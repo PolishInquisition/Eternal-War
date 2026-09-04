@@ -28,7 +28,7 @@
 	 {
 		"name": "Cháo",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Forest","Jungle"],
-        "replaces": "Fort",
+        "replaces": "Citadel",
         "uniqueTo": "Zhao",
         "techRequired": "Mathematics",
 		"uniques": [
