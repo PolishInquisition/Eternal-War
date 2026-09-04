@@ -1,5 +1,20 @@
 [
 	{
+		"name": "Jūn Tuấn",
+		"unitType": "Sword",
+		"uniqueTo": "Zhao",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 9,
+		"cost": 46,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"promotions": ["Shock I"],
+		"uniques": ["[+65]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Kapıkulu",
 		"unitType": "Mounted",
 		"uniqueTo": "Kasal",
