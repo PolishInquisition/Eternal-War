@@ -310,7 +310,7 @@
 		"outerColor": [190,0,0],
 		"innerColor": [240,240,240 ],
 		"uniqueName": "River Trade",
-		"uniques": ["[+1 Gold] from every [River]"],
+		"uniques": ["[+1 Gold] from every [Farm] <in [River] tiles>"],
 
 		"cities": ["Presov","Hlovec","Kutná Hora","Wasyłków","Rypin","Węgrów","Tarnobrzeg","Żytomierz","Bielce","Mikołajów","Lubań","Bydgoszcz","Siewierskodonieck","Choroszcz","Eger","Igława","Kladno","Białograd" ],
 		"spyNames": ["Grzmichuj","Pavel","Jebomil","Jan"]
