@@ -114,7 +114,7 @@
 		"uniqueName": "Nation of Freedom",
 		"uniques": [
 			"[Great Scientist] is earned [25]% faster",
-			"[+2 Science] from every specialist [in all cities]"
+			"[+1 Science] from every specialist [in all cities]"
 		],
 
 		"cities": ["Lusia","Leios","Arties","Nouve Visa","Fose","Posalia","Nisetia","Judia","Tilon",
