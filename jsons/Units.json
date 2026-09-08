@@ -398,12 +398,10 @@
 	// ADD SULFUR
 
 	{
-		"name": "Musketeer",
+		"name": "Musketman",
 		"unitType": "Gunpowder",
-		"replaces": "Musketman",
-		"uniqueTo": "France",
 		"movement": 2,
-		"strength": 28,
+		"strength": 24,
 		"cost": 150,
 		"requiredResource": "Sulfur",
 		"requiredTech": "Gunpowder",
