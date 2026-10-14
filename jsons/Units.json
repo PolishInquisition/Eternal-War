@@ -31,19 +31,19 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Kapıkulu",
+		"name": "Kapıkulu carriage",
 		"unitType": "Mounted",
 		"uniqueTo": "Kasal",
-		"replaces": "Knight",
+		"replaces": "Lancer",
 		"movement": 5,
 		"strength": 20,
-		"cost": 180,
-		"requiredTech": "Chivalry",
-		"obsoleteTech": "Military Science",
-		"upgradesTo": "Cavalry",
+		"cost": 230,
+		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"promotions": ["March","Charge"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"obsoleteTech": "Combined Arms",
+		"upgradesTo": "Anti-Tank Gun",
+		"promotions": ["Formation I","[Conquistador] ability"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Rough terrain penalty","Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
