@@ -119,21 +119,19 @@
 		"movement": 2,
 		"religiousStrength": 1000
 	},
-	{
-		"name": "Orkaan",
-		"unitType": "Siege",
-		"replaces": "Rocket Artillery",
+	{	
+		"name": "VGB",
+		"replaces": "Marine",
 		"uniqueTo": "Verze Union",
-		"movement": 3,
-		"strength": 40,
-		"rangedStrength": 50,
-		"range": 4,
-		"cost": 390,
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 415,
 		"requiredResource": "Aluminum Alloy",
-		"requiredTech": "Rocketry",
-		"uniques": ["[+250]% Strength <vs cities> <when attacking>","No defensive terrain bonus", "Never appears as a Barbarian unit"],
-		"promotions": ["Indirect Fire"],
-		"attackSound": "artillery"
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious","Blitz","Scouting I"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
+		"attackSound": "shot"
 	},
 	{
 		"name": "Valk",
